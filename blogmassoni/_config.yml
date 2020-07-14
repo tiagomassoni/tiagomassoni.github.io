@@ -2,7 +2,7 @@
 title: Blog Massoni
 tagline: Writing about Software
 paginate: 1
-baseurl: ""
+baseurl: "blogmassoni"
 permalink: :title/
 
 kramdown:
