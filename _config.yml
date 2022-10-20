@@ -1,8 +1,7 @@
-theme: Minimal
 relative_links:
   enabled: true
   collections: true
 
 layout: page
-title: "Textos do Massoni"
-permalink: /
+title: "Tiago Massoni"
+theme: minima
