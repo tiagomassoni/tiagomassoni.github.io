@@ -1,4 +1,4 @@
-##O Papel do Pesquisador/Professor em Projetos de P&D
+# O Papel do Pesquisador/Professor em Projetos de P&D (2013)
 
 <!--o que é P&D, lei informatica-->
 É visível que a Universidade Federal de Campina Grande tem atraído significativos investimentos da chamada Lei de Informática. Criada em 1991, a lei estabelece incentivos fiscais para empresas de hardware e automação, através da produção de itens manufaturados em território nacional (mesmo por empresas multinacionais). Até 4% do faturamento anual dos produtos incentivados pode ser deduzido, descontados os impostos de comercialização. Este numerário pode então ser investido em inovações para benefício das empresas, com a contrapartida obrigatória aplicada em centros de pesquisa e universidades. O investimento, na UFCG, por maior alinhamento com a natureza das empresas beneficiárias, concentra-se em projetos executados sob a coordenação de professores lotados no Centro de Engenharia Elétrica e Informática.
