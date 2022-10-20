@@ -6,4 +6,4 @@
 
 [3. Estudos](./estudos)
 
-[4. Escritos](./escritos)
+[4. Escritos](./escritos/)
