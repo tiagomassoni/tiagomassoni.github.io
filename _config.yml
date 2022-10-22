@@ -1,7 +1,7 @@
+theme: jekyll-theme-slate
 relative_links:
   enabled: true
   collections: true
 
 layout: page
 title: "Tiago Massoni"
-theme: architect
