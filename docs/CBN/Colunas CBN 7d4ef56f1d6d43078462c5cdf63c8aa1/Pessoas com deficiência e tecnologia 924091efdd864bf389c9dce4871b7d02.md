@@ -1,3 +1,5 @@
+<meta charset="utf-8"> 
+
 # Pessoas com deficiência e tecnologia
 
 Comentário: nível de acessibilidade digital
