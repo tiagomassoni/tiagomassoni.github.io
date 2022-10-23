@@ -6,7 +6,7 @@ Palavras chave: elas@computacao, mulheres, ufcg
 
 Bom dia ouvintes da CBN
 
-[Pesquisa Mulheres](Pesquisa%20Mulheres%20f280209ddf5c41999d5356955f7ab872.md)
+[Pesquisa Mulheres](Mulheres%20na%20Tecnologia%207240fab808ae4caba46773e26b7033c4/Pesquisa%20Mulheres%20f280209ddf5c41999d5356955f7ab872.md)
 
 Londres, 1843. Ao publicar suas notas sobre o projeto de Charles Babbage para uma máquina analítica, Ada Byron, depois condessa de Lovelace, a única filha legitima do poeta Lord Byron, demonstra sua habilidade tanto na poesia quanto na matemática, vendo beleza em uma máquina de computação. Ada explora conceitos que vão estar na moda um século mais tarde: uma máquina de propósito geral, que pudesse não apenas desempenhar uma tarefa preestabelecida, mas que pudesse ser programada e reprogramada para desempenhar uma gama ilimitada e mutável de tarefas. Em outras palavras, ela visualiza o computador moderno, além de criar o primeiro algoritmo, que não chega a ser testado, porque a máquina analítica de Babbage não seria implementada.
 

@@ -5,7 +5,7 @@ Palavras chave: IOT, alexa, siri, voz
 
 **Dispositivos para comandos de voz: febre nos EUA, vão Alexa e companhia enfim invadir aos lares brasileiros?**
 
-[Pesquisa Voz](Pesquisa%20Voz%20b99ef513689c42ffba880126c266a8b2.md)
+[Pesquisa Voz](Dispositivos%20para%20comandos%20de%20voz%20ee6ab61e20ca44428bc56bb33b16544e/Pesquisa%20Voz%20b99ef513689c42ffba880126c266a8b2.md)
 
 Bom dia ouvinte da CBN!
 

@@ -3,7 +3,7 @@
 Data: January 6, 2021
 Palavras chave: apple music, musica, spotify, streaming
 
-[Pesquisa](Pesquisa%20ea12d489e287471c9953fb3ec9fc5f06.md)
+[Pesquisa](Como%20o%20streaming%20mudou%20nossa%20forma%20de%20ouvir%20mu%CC%81sic%2019f72c3fc14f410e8e1102e9eaf1b522/Pesquisa%20ea12d489e287471c9953fb3ec9fc5f06.md)
 
 Bom dia ouvintes da CBN!
 
