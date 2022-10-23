@@ -1,0 +1,44 @@
+# Baterias, como lidar com elas?
+
+Data: June 2, 2021
+Palavras chave: baterias, energia, smartphone
+
+[https://g1.globo.com/economia/tecnologia/noticia/2021/03/25/e-melhor-deixar-o-laptop-ligado-na-tomada-ou-usa-lo-na-bateria.ghtml](https://g1.globo.com/economia/tecnologia/noticia/2021/03/25/e-melhor-deixar-o-laptop-ligado-na-tomada-ou-usa-lo-na-bateria.ghtml)
+
+[https://tecnoblog.net/189854/bateria-vicia-efeito-memoria/](https://tecnoblog.net/189854/bateria-vicia-efeito-memoria/)
+
+Sem baterias, sem whatsapp ou instagram. A tecnologia de armazenamento portátil de energia é o que permite termos smartphones ou laptops. Essa tecnologia promete avanços pra aumentar o tempo de uso entre carregamentos e ainda assim minimizar o impacto de seus materiais no meio ambiente. Mas que ações nossas aumentam ou diminuem a vida útil das baterias?
+
+Bom dia ouvintes da CBN,
+
+Se estamos com nossos dispositivos funcionando, no dia a dia, junto com a gente, no bolso, na mochila, ou na mão, isso acontece graças a um componente que notamos pouco, mas que nos dá um ódio enorme quando apresenta algum problema: a bateria.
+
+Smartphones, tablets, laptops, sem falar nos carros, ou seja, tudo aquilo que passa mais tempo com a gente do que qualquer outra pessoa, vêm com diferentes tipos de bateria, e sua qualidade define o quanto de energia podemos armazenar e quanto tempo o dispositivo consegue operar com uma única carga.
+
+Projetistas trabalham com três parâmetros ao criar uma bateria: composição química, tamanho e peso. A melhor composição química, que duraria mais, poderia ser enorme ou pesada, assim ela não é viável. Hoje, usamos principalmente duas composições químicas nos dispositivos, principalmente smartphones: Polímero de Lítio ou Íon de Lítio. A primeira é a mais avançada, para baterias pequenas, do tamanho de um cartão de crédito, por exemplo; no entanto, têm menos capacidade que os íons de lítio. Esta último é a que vemos mais frequentemente nos aparelhos, trazendo maior capacidade com as desvantagens de serem um pouco maiores e mais caras, além de esquentarem mais. Por isso, essas baterias possuem um circuito de proteção ativa que previne superaquecimento e incêndios. As baterias de íons de lítio são o padrão para os dispositivos portáteis, tão imprescindíveis em nossas vidas que seus criadores ganharam o prêmio Nobel de Química em 2019.
+
+Uma dúvida comum sobre baterias é como estender a vida útil. Ou, pelo menos, como evitar um desgaste maior do que o normal. Embora todas as baterias se deteriorem com o tempo, muitos usuários questionam se o uso que damos a elas pode influenciar — mesmo que ligeiramente — sua capacidade de reter energia.
+
+Há algumas recomendações para cuidar da bateria, como dar uma carga inicial de 6, 8, 12 ou 24 horas e nunca colocar o eletrônico na tomada antes que a bateria zere, para não viciá-la. Na verdade, isso tudo é mito. Isso acontecia em alguns casos com baterias de níquel-cádmio, que ficaram célebres por equipar satélites da NASA na década de 60. 
+
+Com as baterias modernas de íons de lítio, o efeito memória só ocorreria caso você descarregasse e recarregasse a bateria na mesma capacidade, todos os dias, durante alguns anos. Em outras palavras, era quase impossível que isso acontecesse com seu celular ou qualquer outro eletrônico pessoal, já que você dificilmente recarregaria a bateria sempre no mesmo ponto.
+
+Ainda assim, todo mundo nota que a bateria do smartphone, com o tempo, acaba durando menos, não é? As baterias realmente vão perdendo capacidade com o tempo (menos hoje do que antigamente). Isso acontece devido a mudanças químicas na bateria. À medida que a bateria é usada, os íons de lítio reagem com outra substância, o óxido de níquel. Isso gera nanocristais de sal, que alteram a estrutura interna da bateria e fazem com que os íons se movam de maneira menos eficiente. Não há nada que você possa fazer para evitar isso com a tecnologia atual. Essas pedrinhas vão ocupando o espaço de carregamento da bateria, podemos pensar desta forma. Assim, sobra menos espaço pra carga de íons, inibindo o fluxo dos elétrons livres. Na maioria dos casos, essa diminuição de capacidade é linear, constante no tempo, em função da contagem de ciclos de carregamento e idade. Quando você lê na internet que a bateria de um smartphone dura até 16 horas, isso é baseado no resultado de uma bateria que acabou de sair da fábrica. Até que chega o momento que a capacidade se torna tão curta que não há o que fazer exceto trocar o componente. E sim, o descarregamento total das baterias acaba estressando o componente mais do que o descarregamento parcial, então, acaba sendo um pouco melhor não deixar esvaziar totalmente a bateria antes de carregar de novo. 
+
+Bom, os especialistas normalmente colocam algumas ações importantes que evitam o envelhecimento precoce da bateria. Uma coisa que fazemos muito no Brasil é submeter baterias a temperaturas extremas. Calor ou frio excessivo interfere nas reações químicas, você deve lembrar disso da escola, logo diminuindo a vida útil do componente.
+
+Outra ação indicada é armazenar baterias com carga em torno de 40%, caso pretenda deixar a bateria sem uso por um período longo. Todas as baterias descarregam com o tempo, por isso não é uma boa ideia guardá-la com a carga muito baixa. Se a carga chegar a zero, talvez não seja possível recarregá-la novamente.
+
+Bom, pra fazer uma carga de bateria durar mais, sem recarregar novamente, há algumas coisas a fazer no smartphone que parecem fazer a diferença: ativar o modo de economia de bateria e diminuir o brilho da tela —  a tela é um dos componentes que mais drena energia do celular. A maioria dos aparelhos possui a opção de adaptação automática do brilho da tela de acordo com os níveis de luz do ambiente, mas costumam entregar um brilho alto ainda assim. Outras coisas que realmente economizam: desligar o modo vibração — gasto de energia é menor para carregar e emitir o som do que para o motor vibrar o aparelho — e economizar no uso da rede (coloque no modo avião em tablets, por exemplo).  Uma boa opção também pode ser conferir quais são os aplicativos mais gastões, caso você possa evitar usá-los ou até mesmo removê-los. Para checar, entre nos Ajustes de Bateria e veja os aplicativos que aparecem lá.
+
+Nos laptops, a tecnologia da bateria fica melhor a cada geração. Há 10 anos, a eficiência das baterias de laptop se degradava após algumas centenas de ciclos de carga. Agora, as baterias de laptop têm uma vida útil de três a cinco anos, nos quais podem completar entre 500 e 1.000 ciclos de carga. Uma coisa interessante a se notar é que deixar um laptop conectado à tomada com a bateria em 100% o tempo todo reduzirá ligeiramente sua vida útil. No entanto, pra você, usuário, normalmente manter a bateria em 100% é absolutamente seguro e perfeitamente normal, pois os laptops hoje em dia usam sensores de controle para garantir que a bateria não sobrecarregue ou superaqueça. Tecnicamente, as baterias ficam mais 'felizes' com 50% da carga, então os técnicos dizem que é melhor mantê-las entre 20 e 80%.
+
+Inclusive várias marcas, como Microsoft, Lenovo e HP, oferecem a opção de limitar a quantidade máxima de carga do laptop em suas configurações. Por exemplo, a HP permite que você limite a 80% no modo "maximize a saúde da bateria".
+
+E quanto ao futuro? Baterias são alvo de inovações praticamente constantes na pesquisa acadêmica e nas indústrias. A preocupação aumentou com a criação de baterias cada vez menores e mais leves, que armazenem o máximo de carga, podendo ser carregadas em cada vez menos tempo. Isso principalmente depois da adoção cada vez maior dos carros elétricos, que já dominam as ruas de várias cidades do mundo, que precisam ofertar cada vez mais pontos de recarga de bateria. Hoje em dia ainda é difícil imaginar nossa vida sem as baterias de íons de lítio, apesar de suas conhecidas limitações, como ao risco de explosão e incêndio, perda de desempenho em temperaturas extremas, e o impacto de seu descarte para o meio ambiente. Sim, a lei determina regras para o descarte de baterias de íons de lítio de forma correta, que deveriam ser entregues pelos usuários aos estabelecimentos que as comercializam.
+
+O desenvolvimento de novas baterias tem se concentrado na tentativa de produção de novas baterias livres de metais pesados, mesmo assim com bom desempenho. Empresas e Universidades trabalham em compostos que possam ter a mesma reatividade sem o uso de níquel ou cobalto, e que sejam fáceis de encontrar na natureza. A IBM, por exemplo, reportou, ano passado, um protótipo de bateria baseada em elementos encontrados na água do mar, que seria menos custosa e que traria menos impacto ao meio-ambiente, ao mesmo tempo fornecendo melhor desempenho do que o atual.
+
+Hora de terminar a coluna, porque, claro, a bateria está em 2%.
+
+Um abraço e até a próxima

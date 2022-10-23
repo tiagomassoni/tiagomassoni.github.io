@@ -1,0 +1,39 @@
+# Muito tempo de tela - o que isso faz conosco?
+
+Comentário: ultimo antes das férias
+Data: October 20, 2021
+Palavras chave: covid-19, saúde, smartphone
+
+**Será que você hoje passa mais tempo diante das telas do que fazia antes da pandemia? Uma pesquisa recente revela dados sobre nossa relação com a tecnologia depois da covid-19.**
+
+*Pesquisadoras de quatro universidades publicaram uma radiografia dos efeitos da tecnologia no brasileiro durante a pandemia, e, sem surpresa, aumentamos consideravelmente o tempo gasto diante das telas dos smartphones e computadores, e isso trouxe alguns efeitos negativos sobre a nossa saúde. Será que dá pra lidar com essa maior dependência da tecnologia de forma mais equilibrada?*
+
+Bom dia ouvintes da CBN,
+
+A pandemia de COVID-19 representou uma queda na nossa qualidade de vida em geral. Além do luto pelas pessoas queridas que perdemos, e das sequelas de quem adquiriu as piores versões da doença, a necessidade de diminuir a disseminação do virus gerou estresse e ansiedade em todos nós que ficamos em casa, sem sair, trabalhando, estudando, sobrevivendo. E, no afã de descarregar toda essa tensão, corremos pra onde? Para as telas. A tela do smartphone, a tela da TV, do tablet e do computador. A tecnologia nos salvou de várias formas na pandemia, permitindo-nos trabalhar, comprar e vender, fazer negócios, mas está cobrando um preço meio caro, criando um certo vício de procurar a luz das telas sempre que a ansiedade aperta. Uma pesquisa recente, feita por quatro universidades brasileiras em conjunto, demonstra que, durante a pandemia, nosso tempo de tela aumentou significativamente, que leva, meio que em cadeia, a uma piora nos hábitos de alimentação e atividade física. O estudo rendeu artigos em duas prestigiadas revistas científicas internacionais, agora em 2021.
+
+Por meio de mais de 1.300 questionários online realizados entre agosto e setembro de 2020, as pesquisadoras detectaram um aumento de 3,5 horas no tempo de tela dos brasileiros. A mediana dos questionários pulou de 6,5 para 10 horas diante de smartphones, computadores, TVs e outros aparelhos eletrônicos, um aumento de 54%.
+
+De todas essas telas, provavelmente passamos o maior tempo olhando pra menor delas. No smartphone, com tantas atividades reunidas em um único dispositivo, o tempo com os olhos fixados na tela pode ser bem grande. Uma coisa que preocupa é se o tempo no celular prejudica a visão. A luz azul emitida pelo aparelho está incluída no espectro da luz visível. Ou seja, perceptível pelos olhos humanos. Os comprimentos de onda desse tipo de luz são mais curtos e, portanto, a frequência é maior.
+
+A exposição contínua à luz azul das telas de dispositivos como o smartphone, ao longo do tempo, pode causar danos às células fotorreceptoras da retina e, possivelmente, acelerar a degeneração macular — doença que ocorre em uma parte da retina chamada mácula e que leva a perda progressiva da visão central. A degeneração macular é normalmente associada à idade avançada, mas, ainda assim, pode ser uma consequência da exposição intensa e frequente, ao longo dos anos, à fontes que emitem a luz azul. A pessoa pode enxergar objetos turvos, distorcidos ou com perda parcial ou total de cor.
+
+Bom, voltando à pesquisa, a maioria das pessoas que responderam estava trabalhando ou estudando de casa em tempo integral naquele momento, o que certamente influenciou o resultado. O trabalho e o estudo nos obrigou a ficar diante das telas por mais tempo. O único jeito de fazer reunião ou assistir aulas? videochamadas. E elas nos extenuaram, como já mostraram outras pesquisas relacionadas, mais do que as reuniões presenciais faziam. 
+
+Mas nossa maior interação com as telas não vem apenas das obrigações profissionais. Nosso tempo excessivo nos dispositivos vêm bastante da busca por alívio da solidão em meio ao isolamento. Parece ser mais comum me pegar arrastando telas no smartphone por meia hora, às vezes mais, sem perceber a passagem do tempo, mesmo quando não estou trabalhando. E vejo pessoas que, hoje, com a vacinação mais avançada, já encontro mais na rua, que parecem mais ansiosas em puxar o smartphone do bolso assim que ouvem um som de notificação. 
+
+Outras consequências que o estudo discute envolvem a interferência negativa das telas nas escolhas alimentares, comportamento ligado a um alto consumo de comidas ultraprocessadas e frituras, menos frutas e verduras. Natural, pois atividades que consomem nossa atenção acabam pedindo que a gente vá na cozinha e pegue a coisa mais fácil, mais pronta, pra matar a fome sem interrompê-las. 
+
+Além disso, a luz azul dos dispositivos pode afetar a qualidade do sono. O estudo ainda detectou uma queda no tempo e na frequência de atividades físicas, e um aumento na frequência do consumo de bebidas alcoólicas.
+
+Vale ressaltar que, como todo estudo científico, ele tem limitações. Quem não tinha acesso à internet foi excluído do questionário, por exemplo. E há uma grande prevalência de pessoas que estavam trabalhando de casa — apenas 11% dos participantes eram obrigados a trabalhar presencialmente. Mesmo assim, o estudo encontrou resultados parecidos com trabalhos de outros países, como [Canadá](https://pubmed.ncbi.nlm.nih.gov/33645893/) e [Irã](https://pubmed.ncbi.nlm.nih.gov/33691642/). Uma outra [pesquisa mais ampla](https://www.scielo.br/j/sdeb/a/8YsdKcVzwf3yYVZqWMnbnXs/?lang=pt) (com 40 mil participantes) e com estratificação mais fiel à população brasileira também encontrou aumento no sedentarismo ligado a uma maior exposição a telas e queda na qualidade da alimentação.
+
+E outras pesquisas vão na mesma linha e mostram uma queda geral na qualidade de vida: [um levantamento global feito pela Microsoft em 2020](https://news.microsoft.com/pt-br/um-olhar-sobre-o-bem-estar-dos-trabalhadores-seis-meses-apos-o-inicio-da-pandemia/) também identificou aumento do estresse e da demanda de trabalho, levando a uma maior sensação de esgotamento. Deste, tirei aqui uma conclusão interessante: "Depois de seis meses, as comunicações aumentaram e os limites diminuíram".
+
+Ainda hoje, para muitas pessoas, por motivos profissionais ou acadêmicos, é inevitável passar longos períodos de tempo de olho nas telas, principalmente na tela do computador. Sendo assim, algumas medidas simples, sugeridas por especialistas, podem ajudar a reduzir o alto nível de exposição à luz azul. É importante não manter a tela do computador ou smartphone muito próxima ao rosto. Se isso estiver acontecendo, talvez você resolva aumentando o tamanho da letra ou o zoom na tela do computador. Quem estuda ou trabalha em frente ao computador por muitas horas, pode optar por óculos com filtro de luz azul, em lentes com ou sem grau. Sendo assim, você pode tê-los apenas com os objetivos de proporcionar maior conforto visual e evitar a exposição excessiva à luz azul. 
+
+Ah, alguns smartphones possuem um filtro de luz azul. O recurso aumenta a temperatura das cores na tela e pode receber nomes diferentes, de acordo com a fabricante do aparelho. No iOS (iPhone), por exemplo, o nome da função é Night Shift; no Android, sai como modo noturno. Desde que isso foi lançado, eu sempre ativei, e acho que me ajuda muito, apesar de eu tentar diminuir meu uso de computador à noite.
+
+Temos a justificativa perfeita pra ter aumentado nosso tempo de tela. A maioria de nós nunca passou por uma crise desse tamanho, e tomara não ter que passar por algo parecido de novo. A conectividade disponibilizada pela tecnologia é quase um milagre, e nos serviu muito bem nesses tempos tão difíceis. Os aplicativos do smartphone ou as séries no streaming da TV são muito atrativos, realmente. Mas tudo isso tem seu preço, e atingir um ponto satisfatório de custo/benefício exige de nós equilíbrio. Talvez estejamos entrando no momento de refletir sobre essas coisas e talvez redefinir nossos comportamentos virtuais. 
+
+Um abraço e até a próxima,

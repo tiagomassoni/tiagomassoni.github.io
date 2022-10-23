@@ -2,6 +2,8 @@
 
 [Escritos](https://tiagomassoni.github.io/escritos/index.html)
 
+[Coluna de Tecnologia CBN Campina Grande](https://tiagomassoni.github.io/CBN/index.html)
+
 [Lógica para Computação (Curso na UFCG)](https://tiagomassoni.github.io/logic-texts/)
 
 [Interface Humano-Computador (Curso na UFCG)](https://tiagomassoni.github.io/ihc-texts)
