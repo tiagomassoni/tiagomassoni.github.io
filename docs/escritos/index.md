@@ -5,7 +5,7 @@ title: Escritos
 
 [Solidão](Solidao.md)
 
-[Triste Furada](triste%20furada.Md)
+[Triste Furada](tristeFurada.Md)
 
 [Vielas da Memória](vielasDaMemoria.md)
 
