@@ -1,6 +1,6 @@
 |Título                                                                                                                                                  |Data      |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-|[Pessoas com deficiência e tecnologia](./ColunasCBN7d4ef56f1d6d43078462c5cdf63c8aa1/Pessoascomdefici%C3%AAnciaetecnologia924091efdd864bf389c9dce4871b7d02.md)                                                                                                                    |19/10/2022|
+|[Pessoas com deficiência e tecnologia](colunas/pcd.md)                                                                                                                    |19/10/2022|
 |Precisa de Ator para fazer Filme?                                                                                                                       |05/10/2022|
 |Controle de pais no instagram                                                                                                                           |27/09/2022|
 |Airtag: bons e ruins?                                                                                                                                   |14/09/2022|
