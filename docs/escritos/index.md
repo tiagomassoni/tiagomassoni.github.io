@@ -9,5 +9,5 @@ title: Escritos
 
 [Vielas da Memória](vielasDaMemoria.md)
 
-[Relatos de uma viagem a Jerusalém]()
+[Relatos de uma viagem a Jerusalém](jerusalem.md)
 
