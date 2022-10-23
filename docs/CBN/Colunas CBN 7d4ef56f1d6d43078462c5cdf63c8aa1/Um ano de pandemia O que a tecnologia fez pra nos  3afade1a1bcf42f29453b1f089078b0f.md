@@ -4,7 +4,7 @@ Comentário: tema mais filosófico
 Data: March 17, 2021
 Palavras chave: covid-19, pandemia
 
-[ideias - manual do usuário](Um%20ano%20de%20pandemia%20O%20que%20a%20tecnologia%20fez%20pra%20nos%20%203afade1a1bcf42f29453b1f089078b0f/ideias%20-%20manual%20do%20usua%CC%81rio%20f7030c51f4d74a6a8ac62571a76ef98b.md)
+[ideias - manual do usuário](ideias%20-%20manual%20do%20usua%CC%81rio%20f7030c51f4d74a6a8ac62571a76ef98b.md)
 
 Resumo
 

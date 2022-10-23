@@ -1,0 +1,41 @@
+# ideias - manual do usuário
+
+## Um ano olhando para janelas
+
+*A cada edição da newsletter, um breve artigo de opinião de um assunto importante da última semana. Se preferir, [leia no site](https://manualdousuario.net/pandemia-um-ano/?utm_source=manualdousuario&utm_medium=email).*
+
+![https://manualdousuario.net/wp-content/uploads/2021/03/pexels-joAo-jesus-921294.jpg](https://manualdousuario.net/wp-content/uploads/2021/03/pexels-joAo-jesus-921294.jpg)
+
+Foto:
+
+[João Jesus/Pexels](https://www.pexels.com/pt-br/foto/janela-de-vidro-transparente-com-moldura-de-madeira-marrom-e-branca-921294/)
+
+.
+
+Há um ano, no dia 11 de março de 2020, eu estava numa das belas salas do Cine Passeio, no centro de Curitiba, assistindo ao filme mais recente do Ken Loach, “Você não estava aqui”. Naquele mesmo dia, a Organização Mundial da Saúde (OMS) elevou a crise do coronavírus [ao status de pandemia](https://noticias.uol.com.br/colunas/jamil-chade/2020/03/11/proliferacao-de-coronavirus-leva-oms-a-declarar-pandemia.htm?utm_source=manualdousuario&utm_medium=email). Nossas vidas nunca mais foram as mesmas.
+
+No Brasil, o primeiro caso de COVID-19 fora detectado dias antes, [em 26 de fevereiro](https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/02/brasil-confirma-primeiro-caso-do-novo-coronavirus?utm_source=manualdousuario&utm_medium=email). A primeira morte causada pelo coronavírus seria registrada dali a alguns dias, [em 17 de março](https://www1.folha.uol.com.br/equilibrioesaude/2020/03/brasil-tem-primeira-morte-pelo-novo-coronavirus.shtml?utm_source=manualdousuario&utm_medium=email). Passou-se pouco mais de uma semana daquele 11 de março para que a realidade se impusesse por aqui e governos locais começassem a decretar medidas de distanciamento. No dia 14, um sábado, fui ao mercado e reforcei o carrinho. Nem precisava. Dali em diante, o mercado seria o único lugar que frequentaria.
+
+Além do idioma diferente, que segundo os manuais de redação demanda o uso de aspas ou itálico, outro motivo faz com que no Brasil seja sempre necessário escrever “lockdown” assim, entre aspas: nunca tivemos um de verdade. Na ausência de vontade política para fechar tudo sem condenar parte da população à fome, o distanciamento, uma das poucas medidas comprovadamente eficazes para conter o avanço do coronavírus, acabou sendo feito, aqui, de modo capenga, por uma minoria privilegiada e consciente que viu e ainda vê, impotente, a tragédia anunciada se desenrolar.
+
+Vi o último ano passar pela janela. Ou pelas janelas. Meus olhos se alternaram entre as do apartamento onde vivo e as dos aplicativos do computador, do celular, da TV. Aquela preocupação com “tempo de tela”, que tínhamos antes, foi para o espaço. Hoje é mais fácil mensurar o tempo sem tela, pois muito menor. Passo mais tempo olhando para elas do que dormindo, o que seria um exagero antes de março de 2020. Agora? Não me recrimino, só lamento um pouco.
+
+Foi uma irônica coincidência que o último filme a que assisti no cinema, no dia em que o coronavírus virou pandemia, tenha sido uma crítica feroz à economia dos bicos. Ainda naquele março, instalei um desses apps de delivery e fiz compras no mercado remotamente, expondo outro ser humano aos riscos que eu tentava evitar. Dei-lhe uma boa gorjeta e desinstalei o app.
+
+Alguns consumíveis passei a pedir diretamente nas lojas do bairro. Fui à cozinha com mais frequência — preparo praticamente todas as minhas refeições. Logo no início da pandemia, decidi ir eu mesmo ao mercado, primeiro sem máscara, depois com máscara. Todo mundo estava aturdido ante a ameaça então desconhecida do coronavírus, até mesmo os órgãos sanitários que, num primeiro momento, sabe-se lá por que, desaconselharam o uso de máscaras pela população. Corrigimos a rota.
+
+Errar faz parte, admitir o erro e corrigi-lo, também. É assim que avançamos, é assim que deve ser. Ou deveria. A desinformação relacionada ao coronavírus encontrou terreno fértil nas redes sociais e nos apps de mensagens. As plataformas digitais instituíram regras e desde então removeram zilhões de conteúdos falsos relacionados à COVID-19. Apesar disso, quando vou ao mercado, um funcionário tira a temperatura dos clientes mirando o medidor no pulso, e não na testa. Tem dias em que me sinto morto por dentro, mas nem isso explica a minha suposta temperatura corporal cadavérica, tirada do pulso, de 34º C.
+
+A despeito das privações, do medo ininterrupto, das crises de “será que é ansiedade ou COVID-19?” e da solidão excruciante, encarar o isolamento em 2021 parece mais fácil do que teria sido em outras épocas, graças à tecnologia.
+
+As empresas de tecnologia seguraram a onda e foram recompensadas pelo “mercado”, essa entidade invisível que parece determinar tantas coisas em nossas vidas. O soluço das bolsas em março de 2020 foi rapidamente recuperado. Talvez o susto que o curou tenha vindo do Zoom, que explodiu em popularidade e faturamento. Ou das big techs, que continuaram crescendo vertiginosamente. No Brasil, empresas que já apostavam na digitalização colheram os louros dessa boa sacada muito antes do que esperavam. “Antecipamos em cinco anos o processo de digitalização”, era o discurso corrente.
+
+Para nós, meros mortais, sobrou digitalizar as nossas vidas. Temos uma fartura de distrações e comodidades no celular, frutos de avanços dignos da ficção científica. Séries e filmes sem fim nos serviços de streaming, aulas de ioga por aplicativo, bibliotecas inteiras e todos os jornais do mundo ao alcance de um clique. A falta de contato humano, um problemão nesta crise, pode ser amenizada por um sem número de meios de comunicação, por texto, áudio e videochamadas, com todas as gentes das nossas vidas, dos colegas de trabalho à vovozinha no interior do país.
+
+Isso, sabemos, não é para todos. Volto a pensar no filme do Ken Loach, nos entregadores de aplicativos, talvez a face mais exposta das desigualdades que, muitas vezes, sustentam as ditas “tecnologias de ponta”. Dia desses soube que, em São Paulo (SP), entregadores de comida fazem fila [para receberem marmitas doadas](https://noticias.uol.com.br/cotidiano/ultimas-noticias/2021/03/09/entregadores-de-comida-fazem-fila-para-receber-marmitas-doadas-em-sp.htm?utm_source=manualdousuario&utm_medium=email).
+
+Ante esse cenário, é impossível não se sentir desconfortável. E, no Brasil, ainda temos um agravante local, que acrescenta desgosto e revolta ao desconforto: o noticiário político. Nos últimos dias, com o país batendo recorde atrás de recorde de mortes diárias, déficits crescentes de vagas nos hospitais e o Brasil se tornando uma ameaça à saúde global, o destaque nos noticiários é… a corrida presidencial de 2022. Em toda a pandemia, tive que desdobrar os cuidados com a saúde: para não ser contaminado pelo coronavírus e para não atiçar a gastrite, em grande parte cortesia do nosso inacreditável presidente. Nem vou começar; só de escrever isso já senti uma pontada no estômago.
+
+A tecnologia, que amenizou o distanciamento ao mesmo tempo em que demonstrou seus próprios limites, também nos oferece a luz no fim do túnel. A vacina, uma tecnologia centenária, está aí para nos tirar dessa. Várias delas, até mesmo vacinas inéditas, [as que usam RNA mensageiro](https://www.uol.com.br/vivabem/reportagens-especiais/terceira-geracao-de-vacinas-como-funciona-a-tecnologia-rna/?utm_source=manualdousuario&utm_medium=email), foram desenvolvidas em tempo recorde. É estonteante constatar que, menos de um ano após o surgimento das primeiras informações do SARS-CoV-2, a humanidade já tenha armas tão poderosas para confrontá-lo.
+
+Em março de 2020, imaginávamos que as coisas se ajeitariam dentro de uns poucos meses. Esse prazo foi se dilatando na medida em que a crise sanitária se intensificava. O início da aplicação das vacinas, em dezembro, renovou as esperanças. A bagunça no Brasil, a negligência governamental para garantir as nossas vacinas, turvou-as outra vez. Sigo vendo o mundo por janelas. Espero que não por muito mais tempo.

@@ -1,6 +1,6 @@
 # Redes sociais e eleições
 
-[Pesquisa](Redes%20sociais%20e%20eleic%CC%A7o%CC%83es%20dc6999b136e7464ca4a00b4b0bc6e567/Pesquisa%209f5be627af484ce99fd946c18e6b6db6.md)
+[Pesquisa](Pesquisa%209f5be627af484ce99fd946c18e6b6db6.md)
 
 E as eleições presidenciais americanas, hein? É, a confusão vai longe. Na semana passada, ficaram notórias as intervenções do derrotado Donald Trump, feitas via uma rede social, o Twitter, aquela em que os usuários enviam mensagens curtas acompanhadas de uma foto ou links para reportagens. E o que mais chamou atenção é que a partir do dia seguinte ao dia da votação, o Twitter, mesmo mantendo no ar as publicações de Trump, aquelas que colocavam em dúvida o sistema de contagem de votos, as manteve escondidas sob um selo, e era preciso apertar um botão VER para revelar o conteúdo. O alerta dizia "alguns ou todos os conteúdos compartilhados neste tuíte são contestáveis e podem ter informações incorretas sobre como participar de uma eleição ou de outro processo cívico.” Já o Facebook desativou temporariamente anúncios focados em questões políticas e sociais após o encerramento das votações, como parte de um esforço para “reduzir as oportunidades de confusão ou abuso”, disse a empresa. Aliás, o Facebook fez algo parecido com postagens do presidente.
 
