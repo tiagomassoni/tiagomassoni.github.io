@@ -1,12 +1,7 @@
 
 # Pix Disruptivo mudando pra sempre os serviços financeiros
 
-
-
-
-
 Bom dia ouvintes da CBN,
-
 
 Como vocês sabem, o Pix chegou ao mercado em 2020, no auge da pandemia de COVID-19, para transferências financeiras de pessoa física (sem taxas) ou jurídica, independente do banco de origem ou destino.
 Antes dele, precisávamos recorrer ao DOC e TED, que cobravam taxas bem altas. Essas modalidades, pelo menos no caso de pessoas físicas, foram praticamente eliminadas.
@@ -15,7 +10,6 @@ Outro serviço financeiro que pode estar com os dias contados é o tal do boleto
 Em praticamente todos os sites de compras online, nos deparamos com opções diferentes de pagamento, tipicamente cartões de crédito, carteiras digitais (como mercado pago ou Pag Seguro) ou boletos bancários. 
 Pois então, os pagamentos com boletos não são realizados em quase metade das vezes, segundo a Associação Brasileira de Comércio Eletrônico (ABComm).
 Além disso, a falta de flexibilidade nos pagamentos pode levar a um carrinho abandonado. Segundo a empresa de pagamentos Adyen, 52% dos consumidores brasileiros dizem que desistiram de fazer uma compra porque não podiam pagar do jeito que queriam.
-
 
 Nesses últimos dois anos, o PIX passou a fazer parte dessa lista de opções. Surpresa: se tornou imensamente popular.
 Para as varejistas, o Pix não só tem potencial de reduzir e até substituir o boleto como também de aumentar o número de vendas no comércio eletrônico e diminuir o abandono de compras. 
