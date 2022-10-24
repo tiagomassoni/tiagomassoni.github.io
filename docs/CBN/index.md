@@ -1,5 +1,6 @@
 |Título                                                                                                                                                  |Data      |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+|[Os Boletos Bancários vão Sumir?](colunas/pix-boletos.md)                                                                                                                    |26/10/2022|
 |[Pessoas com deficiência e tecnologia](colunas/pcd.md)                                                                                                                    |19/10/2022|
 |Precisa de Ator para fazer Filme?                                                                                                                       |05/10/2022|
 |Controle de pais no instagram                                                                                                                           |27/09/2022|
