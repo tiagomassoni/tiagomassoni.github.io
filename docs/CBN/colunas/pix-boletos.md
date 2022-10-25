@@ -1,6 +1,13 @@
 
 # Pix Disruptivo mudando pra sempre os serviços financeiros
 
+
+Será que os boletos estão com os dias contados? Não, você não vai deixar de pagar contas, como sempre fez. Mas depois do PIX, muita coisa está mudando nos pagamentos.
+
+
+Com o PIX em 2020, não só as transferências bancárias mudaram completamente. O comércio de maneira geral foi afetado, principalmente o comércio eletrônico. A tendência é que o varejo abandone de vez ferramentas como os boletos bancários para cobrança de valores. Como a transferência instantânea entre bancos está modificando o cenário dos pagamentos digitais? 
+
+
 Bom dia ouvintes da CBN,
 
 Como vocês sabem, o Pix chegou ao mercado em 2020, no auge da pandemia de COVID-19, para transferências financeiras de pessoa física (sem taxas) ou jurídica, independente do banco de origem ou destino.
@@ -32,9 +39,9 @@ Já o Magazine Luiza oferece pagamentos via Pix em seu site e aplicativo, mas ta
 Esse seria um caso de que a história do Pix inspirou soluções alternativas. As transferências são feitas por meio do Iniciador de Transação de Pagamento,  oferecido pelo Banco Central, para a integração dos sites e aplicativos de empresas de varejo com os sistemas bancários, no conceito de finanças abertas (*open finance*). O método de pagamento foi implementado no site KaBuM, que vende eletrônicos e foi comprado pelo Magazine Luiza em 2021 por cerca de R$ 3,5 bilhões.
 O Mercado Pago e as grandes varejista do País também já fazem testes com o iniciador de pagamentos.
 
-O boleto ainda deve ter sobrevida conforme o Pix se tornar mais comum entre os brasileiros, mas pode se tornar uma opção de nicho. Além de reduzir a desistência de compras, o Pix deve ser estimulado por ter menores taxas para as varejistas do que outros meios de pagamento. Afinal, gerar boletos tem um custo para a loja.
+O boleto ainda deve ter sobrevida conforme o Pix se tornar mais comum entre os brasileiros, mas pode se tornar uma opção de nicho. Além de reduzir a desistência de compras, o Pix deve ser estimulado por ter menores taxas para as varejistas do que outros meios de pagamento. Afinal, gerar boletos tem um custo para quem cobra.
 
-Se algum colega seu reclamar do trabalho, numa segunda-feira de manhã, não responda dizendo "tenho boletos pra pagar"...vão achar que você está por fora.
+Se algum colega seu reclamar do trabalho, numa segunda-feira de manhã, não responda dizendo "mas eu tenho boletos pra pagar"...vão achar que você está por fora.
 
 
 
