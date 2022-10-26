@@ -2,36 +2,36 @@
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
 |[Os Boletos Bancários vão Sumir?](colunas/pix-boletos.md)                                                                                                                    |26/10/2022|
 |[Pessoas com deficiência e tecnologia](colunas/pcd.md)                                                                                                                    |19/10/2022|
-|Precisa de Ator para fazer Filme?                                                                                                                       |05/10/2022|
-|Controle de pais no instagram                                                                                                                           |27/09/2022|
-|Airtag: bons e ruins?                                                                                                                                   |14/09/2022|
-|Rumores de iPhone 14                                                                                                                                    |24/08/2022|
-|O Instagram que conhecemos vai acabar                                                                                                                   |10/08/2022|
-|5G em João Pessoa?                                                                                                                                      |03/08/2022|
-|Carne impressa em casa?                                                                                                                                 |03/08/2022|
-|mais uma da internet: não caia no golpe do trabalho em casa por meio período                                                                            |27/07/2022|
-|Demissões nas startups de tecnologia                                                                                                                    |29/06/2022|
-|Google Duplex - robô que faz suas ligações telefônicas                                                                                                  |22/06/2022|
-|Entrevistas de emprego feitas por robôs                                                                                                                 |15/06/2022|
-|M2M - rastreamento via chip                                                                                                                             |08/06/2022|
-|Pesquisa sobre 5G - atraso da implantação                                                                                                               |01/06/2022|
-|temporizador no smartphone                                                                                                                              |18/05/2022|
-|smartphone fixo?                                                                                                                                        |11/05/2022|
-|Fuga de cérebros na tecnologia?                                                                                                                         |27/04/2022|
-|O que há no QR code                                                                                                                                     |20/04/2022|
-|Telefones Burros                                                                                                                                        |13/04/2022|
-|iPhone por assinatura                                                                                                                                   |06/04/2022|
-|senhas compartilhadas no Netflix                                                                                                                        |23/03/2022|
-|Sequestro do instagram: até as operadoras!                                                                                                              |16/03/2022|
-|Ada Lovelace                                                                                                                                            |09/03/2022|
-|Uma mãe, uma filho, uma perda, uma rede social                                                                                                          |02/03/2022|
-|Como uma simples decisão da Apple pode ter quebrado o Facebook                                                                                          |23/02/2022|
-|O lado ruim dos streamings de áudio                                                                                                                     |16/02/2022|
-|100 things we’ve lost to the internet                                                                                                                   |09/02/2022|
-|5G e aviões - e aí?                                                                                                                                     |02/02/2022|
-|Games, mercado e Aquisições                                                                                                                             |26/01/2022|
-|Criptomoedas: a queda?                                                                                                                                  |19/01/2022|
-|Retrospectiva 2021                                                                                                                                      |29/12/2021|
+|[Precisa de Ator para fazer Filme?](colunas/PrecisadeAtorparafazerFilme616a0f23eb0f407488b0e99aa22f1d2d.md)                                                                                                                       |05/10/2022|
+|[Controle de pais no instagram](colunas/Controledepaisnoinstagrama9f5300c9b1440ffb22538687174b9c6.md)                                                                                                                           |27/09/2022|
+|[Airtag: bons e ruins?](colunas/Airtagbonseruins4123cc5f35574d37b7ee4f0717007028.md)                                                                                                                                   |14/09/2022|
+|[Rumores de iPhone 14](colunas/RumoresdeiPhone146c8890e5b1c24af99e52470cfff8ff23.md)                                                                                                                                    |24/08/2022|
+|[O Instagram que conhecemos vai acabar](colunas/OInstagramqueconhecemosvaiacabar6819a887d86f4b8e96e360350668b865.md)                                                                                                                   |10/08/2022|
+|[5G em João Pessoa?](colunas/5GemJo--oPessoaf3015c847f604b0b86b7f8ed1500036c.md)                                                                                                                                      |03/08/2022|
+|[Carne impressa em casa?](colunas/Carneimpressaemcasac484283096d94c1f986387f2e7e9942e.md)                                                                                                                                 |03/08/2022|
+|[Mais uma da internet: não caia no golpe do trabalho em casa por meio período](colunas/maisumadainternetn--ocaianogolpedotrabalhaad1a2659de64495aead3ed72a62cabb.md)                                                                            |27/07/2022|
+|[Demissões nas startups de tecnologia](colunas/Demiss--esnasstartupsdetecnologiaa76b05ae55e3461fa81a3ed5ea91c349.md)                                                                                                                    |29/06/2022|
+|[Google Duplex - robô que faz suas ligações telefônicas](colunas/GoogleDuplex-rob--quefazsuasliga----estelec9e009df2e0c4ff88fa7960cc0bc05df.md)                                                                                                  |22/06/2022|
+|[Entrevistas de emprego feitas por robôs](colunas/Entrevistasdeempregofeitasporrob--sde8682bf260f474db603fb60677a3688.md)                                                                                                                 |15/06/2022|
+|[M2M - rastreamento via chip](colunas/M2M-rastreamentoviachip5150c28d2a65493f90a4df08788152db.md)                                                                                                                             |08/06/2022|
+|[Pesquisa sobre 5G - atraso da implantação](colunas/Pesquisasobre5G-atrasodaimplanta----odb95a4babb3f44cebd426dc8c528eebe.md)                                                                                                               |01/06/2022|
+|[Temporizador no smartphone](colunas/temporizadornosmartphone859d438444ef464a830ecd0dad427e1d.md)                                                                                                                              |18/05/2022|
+|[Smartphone fixo?](colunas/smartphonefixoa169e7dac0174a04946074b74ffc3071.md)                                                                                                                                        |11/05/2022|
+|[Fuga de cérebros na tecnologia?](colunas/Fugadec--rebrosnatecnologia42f3e209229649d39ce1a8afeede652f.md)                                                                                                                         |27/04/2022|
+|[O que há no QR code](colunas/Oqueh--noQRcoded8ab0ecd819a4a418dfb192a445de3f1.md)                                                                                                                                     |20/04/2022|
+|[Telefones Burros](colunas/TelefonesBurroscc520b1af8ef44a89d6ed83709790e19.md)                                                                                                                                        |13/04/2022|
+|[iPhone por assinatura](colunas/iPhoneporassinaturac567239bbad0419f928e123bcb543cd6.md)                                                                                                                                   |06/04/2022|
+|[Senhas compartilhadas no Netflix](colunas/senhascompartilhadasnoNetflix40700b7d39394353a95c7c8b289f0a4e.md)                                                                                                                        |23/03/2022|
+|[Sequestro do instagram: até as operadoras!](colunas/Sequestrodoinstagramat--asoperadoras--07477da7b6244c18ab81c9501c6930be.md)                                                                                                              |16/03/2022|
+|[Ada Lovelace](colunas/AdaLovelaceef81014f2e45435ea0397b63a5dbfde7.md)                                                                                                                                            |09/03/2022|
+|[Uma mãe, uma filho, uma perda, uma rede social](colunas/Umam--e--umafilho--umaperda--umaredesocialff80856f01d243f780f61fe5e2bf6460.md)                                                                                                          |02/03/2022|
+|[Como uma simples decisão da Apple pode ter quebrado o Facebook](colunas/Comoumasimplesdecis--odaApplepodeterquebra239b5e80e9564c1e934935db51b64767.md)                                                                                          |23/02/2022|
+|[O lado ruim dos streamings de áudio](colunas/Oladoruimdosstreamingsde--udio1f1bd9676886498fa39a933c6a822307.md)                                                                                                                     |16/02/2022|
+|[100 things we’ve lost to the internet](colunas/100thingswe--velosttotheinternet1dcdc87573d7447cab046d38552bed72.md)                                                                                                                   |09/02/2022|
+|[5G e aviões - e aí?](colunas/5Geavi--es-ea--b80e7d3614af4962ae640f90084550cc.md)                                                                                                                                     |02/02/2022|
+|[Games, mercado e Aquisições](colunas/Games--mercadoeAquisi----ese708bd90d21845f9bf1d2c7d83838a72.md)                                                                                                                             |26/01/2022|
+|[Criptomoedas: a queda?](colunas/Criptomoedasaqueda3d8ae8ddd9c646138df14c6150a6b61c.md)                                                                                                                                  |19/01/2022|
+|[Retrospectiva 2021](colunas/Retrospectiva2020a03ba649074e4ae882ff100811e51567.md)                                                                                                                                      |29/12/2021|
 |Por que uma falha nos servidores da Amazon travou tudo?                                                                                                 |22/12/2021|
 |Mudanças no Twitter, a Rede Social de quem não gosta das redes sociais                                                                                  |15/12/2021|
 |Por que a falta de chips continua, e continua, e continua...                                                                                            |24/11/2021|
