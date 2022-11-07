@@ -1,7 +1,5 @@
----
-layout: default
-title: Escritos
----
+
+# Escritos
 
 [Solidão](Solidao.md)
 

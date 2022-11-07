@@ -3,5 +3,11 @@
         {
             "path": "."
         }
-    ]
+    ],
+    "settings": {
+        "cSpell.language": "en,pt",
+        "cSpell.words": [
+            "Adyen"
+        ]
+    }
 }

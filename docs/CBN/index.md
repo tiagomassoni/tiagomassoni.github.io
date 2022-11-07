@@ -1,5 +1,7 @@
 |Título                                                                                                                                                  |Data      |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+|[E se pagar Streaming mais barato com Anúncios?](colunas/netflix-anuncios.md)                                                                                                                    |09/11/2022|
+
 |[Os Boletos Bancários vão Sumir?](colunas/pix-boletos.md)                                                                                                                    |26/10/2022|
 |[Pessoas com deficiência e tecnologia](colunas/pcd.md)                                                                                                                    |19/10/2022|
 |[Precisa de Ator para fazer Filme?](colunas/PrecisadeAtorparafazerFilme616a0f23eb0f407488b0e99aa22f1d2d.md)                                                                                                                       |05/10/2022|

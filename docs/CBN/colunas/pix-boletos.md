@@ -2,12 +2,6 @@
 # Pix Disruptivo mudando pra sempre os serviços financeiros
 
 
-Será que os boletos estão com os dias contados? Não, você não vai deixar de pagar contas, como sempre fez. Mas depois do PIX, muita coisa está mudando nos pagamentos.
-
-
-Com o PIX em 2020, não só as transferências bancárias mudaram completamente. O comércio de maneira geral foi afetado, principalmente o comércio eletrônico. A tendência é que o varejo abandone de vez ferramentas como os boletos bancários para cobrança de valores. Como a transferência instantânea entre bancos está modificando o cenário dos pagamentos digitais? 
-
-
 Bom dia ouvintes da CBN,
 
 Como vocês sabem, o Pix chegou ao mercado em 2020, no auge da pandemia de COVID-19, para transferências financeiras de pessoa física (sem taxas) ou jurídica, independente do banco de origem ou destino.
@@ -26,10 +20,10 @@ Em janeiro de 2021, o Pix apresentava 17% de aceitação entre os comércios vir
 
 Em agosto, dados do Banco Central (BC) apontam que o número de chaves Pix cadastradas bateu a marca dos 478,3 milhões até o final de julho deste ano, sendo que a população brasileira é composta por 214,9 milhões de pessoas.
 De acordo com o BC, a maior parte das chaves registradas são de pessoas físicas, o equivalente a 95%. 
-A quantidade de operações por meio de Pix já é maior do que transações com cartão pré-pago, transferência intrabancária e débito direto, no geral.
+A quantidade de operações por meio de Pix já é maior do que transações com cartão pré-pago, transferência intra-bancária e débito direto, no geral.
 
 Li recentemente dados do site Mercado Livre; lá, a adoção do Pix teve expansão em torno de 130% e causou uma redução de 33% no uso de boleto no segundo trimestre,se comparado com o mesmo período do ano passado. Na plataforma, lojas oficiais de marcas como Samsung, Nike e Hering já aceitam pagamentos via Pix.
-Com 30 milhões de usuários ativos e 10 milhões de vendedores, o Mercado Pago, banco digital do mesmo grupo, fornece sistema de pagamento para lojas físicas e digitais e já tem um quarto de todas as transações feitas via Pix. Além de diversas lojas online, a empresa faz os pagamentos via Pix nas farmácias da rede Pague Menos e nas lojas físicas da C&A.
+Com 30 milhões de usuários ativos e 10 milhões de vendedores, o Mercado Pago, banco digital do mesmo grupo, fornece sistema de pagamento para lojas físicas e digital que já tem um quarto de todas as transações feitas via Pix. Além de diversas lojas online, a empresa faz os pagamentos via Pix nas farmácias da rede Pague Menos e nas lojas físicas da C&A.
 
 O que se avalia dessas leituras do mercado é que a experiência de pagamento melhorou com o PIX. Você que já fez uma compra online tem em mente que qualquer obstáculo no pagamento frustra demais a experiência de consumo, e te leva rapidamente a desistir, principalmente pela falta de suporte personalizado. Quando temos problemas para pagar alguma compra numa loja física, atendentes sempre tentam nos dar alguma alternativa para resolver; esse atendimento personalizado não existe no comércio eletrônico.
 
