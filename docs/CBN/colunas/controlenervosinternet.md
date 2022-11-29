@@ -3,6 +3,9 @@
 Anda ficando muito nervosa com mensagens no WhatsApp, ou nas redes sociais? Acho que você precisa de umas dicas. A internet está mesmo cheia de haters.
 
 
+Em outubro, um grupo de organizações divulgou a chamada cartilha de "Autocuidado para influenciadores", mostrando formas de como lidar com os HATERS da internet. Como manter a saúde mental nas redes sociais em meio a tanta gente que parece postar respostas feitas para irritar e ofender?
+
+
 
 Bom dia ouvinte da CBN,
 
