@@ -1,5 +1,6 @@
 |Título                                                                                                                                                  |Data      |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+|[ChatGPT: A IA que conversa com você](colunas/chatGPT.md)                                                                                                                    |14/12/2022|
 |[Assistentes por Voz são um Fracasso?](colunas/alexa-fracasso.md)                                                                                                                    |07/12/2022|
 |[Haters na internet, como lidar?](colunas/controlenervosinternet.md)                                                                                                                    |23/11/2022|
 |[E se pagar Streaming mais barato com Anúncios?](colunas/netflix-anuncios.md)                                                                                                                    |09/11/2022|
