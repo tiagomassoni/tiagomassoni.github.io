@@ -1,5 +1,8 @@
 |Título                                                                                                                                                  |Data      |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+|[Laboratório digital no seu vaso sanitário](colunas/xixiDigital.md)                                                                                                                    |01/02/2023|
+|[Profissionais de CG Ganham o Mundo](colunas/profissionaisCG.md)                                                                                                                    |25/01/2023|
+|[Retrospectiva 2022](colunas/retro2022.md)                                                                                                                    |28/12/2022|
 |[ChatGPT: A IA que conversa com você](colunas/chatGPT.md)                                                                                                                    |14/12/2022|
 |[Assistentes por Voz são um Fracasso?](colunas/alexa-fracasso.md)                                                                                                                    |07/12/2022|
 |[Haters na internet, como lidar?](colunas/controlenervosinternet.md)                                                                                                                    |23/11/2022|

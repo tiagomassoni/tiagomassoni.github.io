@@ -1,5 +1,9 @@
 
 
+Tem um novo site que promete simular uma conversa com uma pessoa na internet, de forma muito convincente, só que do outro lado tem uma máquina. O ChatGPT está fazendo todo mundo discutir os limites da inteligência artificial.
+
+
+
 
 
 
