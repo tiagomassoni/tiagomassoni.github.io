@@ -1,5 +1,8 @@
 |Título                                                                                                                                                  |Data      |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+|[A IA está escrevendo contos...mas todos percebem](colunas/ia-escritora.md))                                                                                                                    |01/03/2023|
+|[Rádio no mundo da internet](colunas/radio-internet.md))                                                                                                                    |15/02/2023|
+|[O Celular é um Vício](colunas/celular-vicio.md))                                                                                                                    |08/02/2023|
 |[Laboratório digital no seu vaso sanitário](colunas/xixiDigital.md)                                                                                                                    |01/02/2023|
 |[Profissionais de CG Ganham o Mundo](colunas/profissionaisCG.md)                                                                                                                    |25/01/2023|
 |[Retrospectiva 2022](colunas/retro2022.md)                                                                                                                    |28/12/2022|

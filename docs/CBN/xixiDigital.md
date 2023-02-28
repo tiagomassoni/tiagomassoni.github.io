@@ -1,4 +1,8 @@
 
+O monitoramento digital da sua saúde pode ser radicalmente modificado com novos sensores acoplados aos ambientes de uma casa. A novidade está no vaso sanitário, com um novo aparelho que promete diagnósticos instantâneos sobre a saúde do corpo através da leitura da sua urina. Como isso funciona? 
+
+
+
 Bom dia ouvintes da CBN,
 
 
