@@ -1,5 +1,6 @@
 |Título                                                                                                                                                  |Data      |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+|[A Carta contra o GPT](colunas/carta-alarmista.md))                                                                                                                    |29/03/2023|
 |[Terapia com robôs](colunas/terapia.md))                                                                                                                    |29/03/2023|
 |[O novo modelo GPT-4](colunas/gpt4.md))                                                                                                                    |22/03/2023|
 |[O Gigante Google anda mal das pernas](colunas/google-caindo.md))                                                                                                                    |08/03/2023|
