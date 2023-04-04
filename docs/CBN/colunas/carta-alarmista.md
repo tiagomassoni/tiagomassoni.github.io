@@ -12,13 +12,13 @@ Bom dia ouvintes da CBN,
 Se eu peço pro computador criar uma música sobre meu animal de estimação, ele vai lá e faz na hora. Seu eu passo um exercício um problema de engenharia, ele vai e resolve. Corrigir meus textos, traduzir um discurso em chinês, criar uma receita na hora com os ingredientes que tenho à mão. Uma máquina tão inteligente que parece aprender com tudo poderia adquirir consciência e se voltar contra nós, humanos? Já andam prevendo que essas máquinas, dotadas de modelos amplos de linguagem, como é o caso do GPT-4, tomarão em breve os empregos de muita gente. Mas e se esses programas tiverem o controle de veículos ou armamentos militares, devemos ter medo? 
 
 Algumas pessoas já estão preocupadas com isso. 
-Itália e China proibiram o chatGPT, em cárater temporário, pelo menos.
+Itália e China proibiram o chatGPT, em caráter temporário, pelo menos.
 Além disso, centenas de especialistas mundiais publicaram, na semana passada, um apelo para uma pausa de seis meses na pesquisa sobre Inteligências Artificiais (IAs) mais potentes do que o GPT-4, lançado em março, alertando para "grandes riscos para a humanidade". 
 Na petição publicada no site futureoflife.org, eles pedem uma moratória até que sejam estabelecidos sistemas de segurança com novas autoridades reguladoras, vigilância de sistemas de inteligência artificial, técnicas que ajudem a distinguir entre o real e o artificial e instituições capazes de fazer frente à "drama perturbação econômica e política (especialmente para a democracia) que a Inteligência Artificial causará".
 Entre os autores da carta estão Elon Musk, dono do Twitter e fundador da SpaceX e da Tesla, o historiador Yuval Harari, autor do best-seller Sapiens, e o co-fundador da Apple, Steve Wozniak.
 
 Eu li o texto da carta. Ele destaca que está havendo uma corrida descontrolada para desenvolver soluções que ninguém, nem seus criadores, parece entender como elas funcionam, sem poder então controlar de forma confiável. 
-O alerta vai na linha de criticar a possibilidade desses programas gerarem uma avalanche de fake news convincentes, ou de automatizar todo e qualquer trabalho, mesmo aqueles que consideramos gratificantes. 
+O alerta vai na linha de criticar a possibilidade desses programas gerarem uma avalanche de fake News convincentes, ou de automatizar todo e qualquer trabalho, mesmo aqueles que consideramos gratificantes. 
 A crítica vai na direção de que decisões tão importantes não devem ficar na mão de líderes não-eleitos, como engenheiros em startups de tecnologia. O documento finaliza com um alerta um tanto dramático: Devemos nos arriscar a perder o controle da nossa civilização? 
 
 A carta usa como motivação principal uma fala recente do próprio fundador da empresa Open AI, que criou o ChatGPT. Nela, Sam Altman reconhece ter um pouco de medo de que sua criação seja usada para "desinformação em larga escala, ou para ciberataques". A empresa precisaria de tempo para se adaptar.
