@@ -1,5 +1,7 @@
 |Título                                                                                                                                                  |Data      |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+|[Mensagens Temporárias no WhatsApp](colunas/msg-temporarias-zap.md))                                                                                                                    |26/04/2023|
+|[A Tiktokzação das redes sociais](colunas/todas-redes-iguais.md))                                                                                                                    |12/04/2023|
 |[A Carta contra o GPT](colunas/carta-alarmista.md))                                                                                                                    |29/03/2023|
 |[Terapia com robôs](colunas/terapia.md))                                                                                                                    |29/03/2023|
 |[O novo modelo GPT-4](colunas/gpt4.md))                                                                                                                    |22/03/2023|

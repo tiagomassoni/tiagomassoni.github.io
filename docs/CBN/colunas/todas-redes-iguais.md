@@ -1,7 +1,7 @@
 
 
 
-Instagram, Twitter, Facebook, Youtube. Você pode ficar mudando de aplicativo, de rede social, mas fica aquela impressão estranha de que tudo parece a mesma coisa. Não é só impressão; o modelo TikTok parece aquele que o mercado definiu como sendo o mais lucrativo, e todo mundo está imitando. Observando essa tendência, a coluna tenta fazer um exercício de futurologia e discute os prováveis próximos passos nessa guerra pela engajamento do usuário. 
+Instagram, Twitter, Facebook, Youtube. Você pode ficar mudando de aplicativo, de rede social, mas fica aquela impressão estranha de que tudo parece a mesma coisa. O modelo TikTok parece aquele que o mercado definiu como sendo o mais lucrativo, e todo mundo está imitando. Observando essa tendência, a coluna tenta fazer um exercício de futurologia e discute os prováveis próximos passos nessa guerra pela engajamento do usuário. 
 
 Não interessa se estou no insta, no youtube, no Face; todos eles tem um jeito de tiktok, com vídeos curtos infinitos sugeridos por inteligência artificial. Será que essa é a tendência, a tiktokização das redes?
 
@@ -10,9 +10,10 @@ Não interessa se estou no insta, no youtube, no Face; todos eles tem um jeito d
 
 Bom dia ouvintes da CBN,
 
-A linha do tempo, ou o feed, das redes sociais, parecem criados pela mesma pessoa. Em vez de usar aplicativos separados para amigos, família, notícias, cultura e diversão, todos oferecem conteúdo do mesmo jeito. Abra qualquer um desses, e provavelmente você vai deparar com vídeos verticais intermináveis, certamente gravados por pessoas que você não segue. O conteúdo é tão igual que é fácil esquecer em que aplicativo você está naquele momento.
+A linha do tempo, o u o feed, das redes sociais, parecem criados pela mesma pessoa. Em vez de usar aplicativos separados para amigos, família, notícias, cultura e diversão, todos oferecem conteúdo do mesmo jeito. Abra qualquer um desses, e provavelmente você vai deparar com vídeos verticais intermináveis, certamente gravados por pessoas que você não segue. O conteúdo é tão igual que é fácil esquecer em que aplicativo você está naquele momento.
 
 A homogeneização das mídias sociais é o resultado do sucesso do TikTok, em que recomendações baseadas em aprendizado de máquina mataram o modelo anterior de ver conteúdo de quem eu sigo. Vídeos curtos com legendas, compostos de cortes e que apenas rolando a tela aparecerá um novo vídeo, além da utilização de algoritmo personalizado para cada usuário, são as principais características.
+
 
 Para você que conseguiu ficar de fora da onda do TikTok, um singelo resumo: os usuários criam vídeos de até 60 segundos com música e efeitos especiais. A plataforma é conhecida por sua comunidade de dançarinos, comediantes, músicos e muito mais. O algoritmo da plataforma é projetado para exibir conteúdo personalizado com base nas preferências dos usuários, tornando-a altamente viciante. A empresa-mãe do TikTok, a ByteDance, tem hoje valor de mercado estimado em mais de US$ 100 bilhões. 
 
