@@ -1,7 +1,6 @@
 |Título                                                                                                                                                  |Data      |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
 |[Jetsons, again?](colunas/jetsons.md))                                                                                                                    |03/05/2023|
-
 |[Mensagens Temporárias no WhatsApp](colunas/msg-temporarias-zap.md))                                                                                                                    |26/04/2023|
 |[A Tiktokzação das redes sociais](colunas/todas-redes-iguais.md))                                                                                                                    |12/04/2023|
 |[A Carta contra o GPT](colunas/carta-alarmista.md))                                                                                                                    |29/03/2023|
