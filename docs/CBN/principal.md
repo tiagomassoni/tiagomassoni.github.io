@@ -1,5 +1,6 @@
 |Título                                                                                                                                                  |Data      |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+|[Perigos do Phishing](colunas/phishing.md))                                                                                                                    |10/05/2023|
 |[Jetsons, again?](colunas/jetsons.md))                                                                                                                    |03/05/2023|
 |[Mensagens Temporárias no WhatsApp](colunas/msg-temporarias-zap.md))                                                                                                                    |26/04/2023|
 |[A Tiktokzação das redes sociais](colunas/todas-redes-iguais.md))                                                                                                                    |12/04/2023|
