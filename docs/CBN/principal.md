@@ -1,16 +1,18 @@
 |Título                                                                                                                                                  |Data      |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-|[Perigos do Phishing](colunas/phishing.md))                                                                                                                    |10/05/2023|
-|[Jetsons, again?](colunas/jetsons.md))                                                                                                                    |03/05/2023|
-|[Mensagens Temporárias no WhatsApp](colunas/msg-temporarias-zap.md))                                                                                                                    |26/04/2023|
-|[A Tiktokzação das redes sociais](colunas/todas-redes-iguais.md))                                                                                                                    |12/04/2023|
-|[A Carta contra o GPT](colunas/carta-alarmista.md))                                                                                                                    |29/03/2023|
-|[Terapia com robôs](colunas/terapia.md))                                                                                                                    |29/03/2023|
-|[O novo modelo GPT-4](colunas/gpt4.md))                                                                                                                    |22/03/2023|
-|[O Gigante Google anda mal das pernas](colunas/google-caindo.md))                                                                                                                    |08/03/2023|
-|[A IA está escrevendo contos...mas todos percebem](colunas/ia-escritora.md))                                                                                                                    |01/03/2023|
-|[Rádio no mundo da internet](colunas/radio-internet.md))                                                                                                                    |15/02/2023|
-|[O Celular é um Vício](colunas/celular-vicio.md))                                                                                                                    |08/02/2023|
+|[TVs 8K e restrições no consumo de energia](colunas/tv-8k-energia.md)                                                                                                                    |31/05/2023|
+|[PL das Fake News](colunas/regulamentacao-redes.md)                                                                                                                    |17/05/2023|
+|[Perigos do Phishing](colunas/phishing.md)                                                                                                                    |10/05/2023|
+|[Jetsons, again?](colunas/jetsons.md)                                                                                                                    |03/05/2023|
+|[Mensagens Temporárias no WhatsApp](colunas/msg-temporarias-zap.md)                                                                                                                    |26/04/2023|
+|[A Tiktokzação das redes sociais](colunas/todas-redes-iguais.md)                                                                                                                    |12/04/2023|
+|[A Carta contra o GPT](colunas/carta-alarmista.md)                                                                                                                    |29/03/2023|
+|[Terapia com robôs](colunas/terapia.md)                                                                                                                    |29/03/2023|
+|[O novo modelo GPT-4](colunas/gpt4.md)                                                                                                                    |22/03/2023|
+|[O Gigante Google anda mal das pernas](colunas/google-caindo.md)                                                                                                                    |08/03/2023|
+|[A IA está escrevendo contos...mas todos percebem](colunas/ia-escritora.md)                                                                                                                    |01/03/2023|
+|[Rádio no mundo da internet](colunas/radio-internet.md)                                                                                                                    |15/02/2023|
+|[O Celular é um Vício](colunas/celular-vicio.md)                                                                                                                    |08/02/2023|
 |[Laboratório digital no seu vaso sanitário](colunas/xixiDigital.md)                                                                                                                    |01/02/2023|
 |[Profissionais de CG Ganham o Mundo](colunas/profissionaisCG.md)                                                                                                                    |25/01/2023|
 |[Retrospectiva 2022](colunas/retro2022.md)                                                                                                                    |28/12/2022|
