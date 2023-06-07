@@ -1,5 +1,6 @@
 |Título                                                                                                                                                  |Data      |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+|[O Futuro dos Smartphones](colunas/futuro-smartphone.md)                                                                                                                    |07/06/2023|
 |[TVs 8K e restrições no consumo de energia](colunas/tv-8k-energia.md)                                                                                                                    |31/05/2023|
 |[PL das Fake News](colunas/regulamentacao-redes.md)                                                                                                                    |17/05/2023|
 |[Perigos do Phishing](colunas/phishing.md)                                                                                                                    |10/05/2023|
