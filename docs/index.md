@@ -7,3 +7,5 @@
 [Lógica para Computação (Curso na UFCG)](https://tiagomassoni.github.io/logic-texts/)
 
 [Interface Humano-Computador (Curso na UFCG)](https://tiagomassoni.github.io/ihc-texts)
+
+[Pesquisa](https://tiagomassoni.github.io/research/index.html)
