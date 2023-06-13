@@ -1,9 +1,30 @@
 
+**Resumo**
 
+A Apple lançou o Apple Vision Pro, um óculos de realidade aumentada que promete uma experiência imersiva e avançada. O hardware é poderoso, praticamente um computador para pendurar na cabeça. O Vision Pro recebeu críticas por seu alto preço e limitações de uso, sendo considerado um produto de luxo. A concorrente Meta (Facebook) minimizou o lançamento, afirmando que está focada em produtos mais acessíveis. 
+
+**Vinheta**
+Com o lançamento do Vision Pro, a Apple entrou de cabeça no mundo da realidade virtual, e bagunçou o cenário das apostas no tal metaverso.
 
 
 Bom dia ouvintes da CBN,
 
+Depois de acompanhar muitos concorrentes falharem com óculos de realidade virtual, a Apple decidiu que era hora de entrar no jogo. O assunto mais comentado nas grandes da tecnologia foi o lançamento, neste início de Junho, do Apple Vision Pro. E a propaganda foi pesada: segundo a Apple, este é o "dispositivo eletrônico pessoal mais avançado já feito" UoU!
+Quem viu a demonstração no youtube e no lançamento diz que essa não é só uma frase de efeito. A ambição é produzir uma experiência totalmente imersiva, com impacto não só na área de entretenimento, mas também na educação e na forma como interagimos com pessoas e ambientes.
+
+Há anos objeto de rumores e vazamentos, o Apple Vision Pro é óculos de realidade aumentada que permite ao usuário controlá-lo com os olhos, voz ou mãos. Tem um jeitão de óculos, mas não cobre o rosto todo, e também não é totalmente opaco - quem está na sua frente consegue ver os seus olhos. Uma experiência imersiva mas não alienante.
+Depois de acompanhar muitos concorrentes falharem com óculos de realidade virtual, a Apple decidiu que era hora de entrar no jogo. O assunto mais comentado nas grandes da tecnologia foi o lançamento, neste início de Junho, do Apple Vision Pro. E a propaganda foi pesada: segundo a Apple, este é o "dispositivo eletrônico pessoal mais avançado já feito" UoU!
+Quem viu a demonstração no youtube e no lançamento diz que essa não é só uma frase de efeito. A ambição é produzir uma experiência totalmente imersiva, com impacto não só na área de entretenimento, mas também na educação e na forma como interagimos com pessoas e ambientes.
+
+Há anos objeto de rumores e vazamentos, o Apple Vision Pro é óculos de realidade aumentada que permite ao usuário controlá-lo com os olhos, voz ou mãos. Tem um jeitão de óculos, mas não cobre o rosto todo, e também não é totalmente opaco - quem está na sua frente consegue ver os seus olhos. Uma experiência imersiva mas não alienante.
+Depois de acompanhar muitos concorrentes falharem com óculos de realidade virtual, a Apple decidiu que era hora de entrar no jogo. O assunto mais comentado nas grandes da tecnologia foi o lançamento, neste início de Junho, do Apple Vision Pro. E a propaganda foi pesada: segundo a Apple, este é o "dispositivo eletrônico pessoal mais avançado já feito" UoU!
+Quem viu a demonstração no youtube e no lançamento diz que essa não é só uma frase de efeito. A ambição é produzir uma experiência totalmente imersiva, com impacto não só na área de entretenimento, mas também na educação e na forma como interagimos com pessoas e ambientes.
+
+Há anos objeto de rumores e vazamentos, o Apple Vision Pro é óculos de realidade aumentada que permite ao usuário controlá-lo com os olhos, voz ou mãos. Tem um jeitão de óculos, mas não cobre o rosto todo, e também não é totalmente opaco - quem está na sua frente consegue ver os seus olhos. Uma experiência imersiva mas não alienante.
+Depois de acompanhar muitos concorrentes falharem com óculos de realidade virtual, a Apple decidiu que era hora de entrar no jogo. O assunto mais comentado nas grandes da tecnologia foi o lançamento, neste início de Junho, do Apple Vision Pro. E a propaganda foi pesada: segundo a Apple, este é o "dispositivo eletrônico pessoal mais avançado já feito" UoU!
+Quem viu a demonstração no youtube e no lançamento diz que essa não é só uma frase de efeito. A ambição é produzir uma experiência totalmente imersiva, com impacto não só na área de entretenimento, mas também na educação e na forma como interagimos com pessoas e ambientes.
+
+Há anos objeto de rumores e vazamentos, o Apple Vision Pro é óculos de realidade aumentada que permite ao usuário controlá-lo com os olhos, voz ou mãos. Tem um jeitão de óculos, mas não cobre o rosto todo, e também não é totalmente opaco - quem está na sua frente consegue ver os seus olhos. Uma experiência imersiva mas não alienante.
 Depois de acompanhar muitos concorrentes falharem com óculos de realidade virtual, a Apple decidiu que era hora de entrar no jogo. O assunto mais comentado nas grandes da tecnologia foi o lançamento, neste início de Junho, do Apple Vision Pro. E a propaganda foi pesada: segundo a Apple, este é o "dispositivo eletrônico pessoal mais avançado já feito" UoU!
 Quem viu a demonstração no youtube e no lançamento diz que essa não é só uma frase de efeito. A ambição é produzir uma experiência totalmente imersiva, com impacto não só na área de entretenimento, mas também na educação e na forma como interagimos com pessoas e ambientes.
 
