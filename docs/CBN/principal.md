@@ -1,5 +1,6 @@
 |Título                                                                                                                                                  |Data      |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+|[Os hackers do bem do Instagram](colunas/hackers-do-bem.md)                                                                                                                    |07/06/2023|
 |[O computador de rosto da Apple](colunas/apple-vision-pro.md)                                                                                                                    |07/06/2023|
 |[O Futuro dos Smartphones](colunas/futuro-smartphone.md)                                                                                                                    |07/06/2023|
 |[TVs 8K e restrições no consumo de energia](colunas/tv-8k-energia.md)                                                                                                                    |31/05/2023|
