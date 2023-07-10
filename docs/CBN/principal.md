@@ -1,5 +1,6 @@
 |Título                                                                                                                                                  |Data      |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+|[A batalha das redes sociais: Threads vs Twitter](colunas/threads-vs-twitter.md)                                                                                                                    |12/07/2023|
 |[John Goodenough, o pai das baterias recarregáveis](colunas/goodenough.md)                                                                                                                    |05/07/2023|
 |[Os hackers do bem do Instagram](colunas/hackers-do-bem.md)                                                                                                                    |21/06/2023|
 |[O computador de rosto da Apple](colunas/apple-vision-pro.md)                                                                                                                    |14/06/2023|

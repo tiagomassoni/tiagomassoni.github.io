@@ -37,7 +37,7 @@ Veja como é interessante pensar que, sem isso, não poderíamos ter dispositivo
 
 Em 2019, o Dr. Goodenough foi o mais idoso ganhador de prêmio Nobel - ele estava com 97 anos. Ele dividiu o prêmio de 900 mil dólares com outros dois pesquisadores (um americano e um japonês) que tiveram grande contribuição no desenvolvimento das baterias. Ele nunca recebeu royalties pelo seu trabalho em baterias, sempre viveu do seu salário de pesquisador nas instituições que passou.
 
-Eu vou terminando por aqui, pois minha bateria está um pitoquinho só, e eu preciso levar os íons de volta para o pólo positivo.
+Eu vou terminando por aqui, pois minha bateria está um pitoquinho só, e eu preciso levar os íons de volta para o pólo negativo.
 
 Um abraço e até a próxima.
 
