@@ -1,8 +1,6 @@
 ---
-title: my home page title
+title: Threats to Validity
 ---
-
-# Threats to Validity
 
 A researcher must, somehow, guarantee the quality of her research. Validity is the term we use to discuss the quality of a proposition, inference, or theory. It must be stressed that we don't judge whether a given research is valid or some measurement is valid; we only judge whether the *research results are valid*. We end up considering the quality of the results by the applied methods. Still, it needs to make more sense to say if a method is valid.
 
