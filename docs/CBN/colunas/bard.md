@@ -1,4 +1,11 @@
 
+O Google lançou o Bard, o concorrente do chatGPT. Com ele, a empresa tenta usar o peso da marca Google para se posicionar no mercado da IA.
+
+
+
+
+Lançado recentemente para concorrer com o chatGPT, o Bard é um chatbot do Google que usa IA para gerar texto, traduzir idiomas e responder às suas perguntas. O Bard ainda está em desenvolvimento, e é mais um player nesse mercado superaquecido de aplicações de Inteligência Artificial. 
+
 
 Bom dia ouvintes da CBN,
 
@@ -11,7 +18,6 @@ Bom, você pode usar o Bard de várias formas. A interface é muito similar ao c
 Para acessar o Bard, é preciso logar no site oficial (bard.google.com) com uma conta Google. Em seguida, basta enviar os comandos para o chatbot, que mantém um histórico de interações, também bem similar ao do ChatGPT. É possível apagar chats antigos tocando no ícone de lixeira, que aparece quando você seleciona uma das conversas.
 
 Um diferencial do Bard em relação ao ChatGPT é que o chatbot do Google conta com cinco estilos de resposta. São eles simples, longo, curto, profissional ou casual. Assim, caso você não goste da forma como o chatbot respondeu, você pode alternar entre os modelos. Ainda, você pode também indicar se gostou ou não da resposta, bastando tocar sobre os ícones de "👍" ou "👎".
-
 
 Se comparado ao chatGPT, o Bard possui algumas particularidades. Primeiro, ele realiza pesquisas na internet em tempo real, uma função ausente na versão gratuita do chatGPT, que foi treinado com textos de até 2021. O Bard traz até notícias e recomendações de lugares para ir, por exemplo.
 
@@ -30,5 +36,10 @@ As alucinações acontecem quando o modelo de linguagem não tem dados suficient
 De acordo com a big tech, esses feedbacks são revisados por um time de pessoas, que busca otimizar a IA para evitar problemas comuns a esse tipo de inteligência artificial - como viés preconceituoso ou as famosas "alucionações". Esses problemas costumam acontecer porque, para treinar a IA, são usadas grandes bases de dados, que podem conter conteúdo enganoso ou enviesado, algo que acontece também com o ChatGPT. A empresa possui um time de revisores foi treinado para analisar e avaliar a qualidade de resposta.
 
 Garantir que a resposta seja bem fundamentada e baseada em evidências, no entanto, cabe a milhares de contratados externos de empresas terceirizadas, muitas vezes mal pagos em países subdesenvolvidos, com treinamento mínimo sob prazos frenéticos, de acordo com reportagens investigativas recentes. Eis o custo humano da Inteligência Artificial. 
+
+O Bard chega no Brasil em meio a vários questionamentos sobre o modelo de negócio desses recentes aplicativos de IA, os modelos de linguagem amplos que geram texto depois de serem treinados em cima de muito texto na internet. Vários escritores e empresas de mídia americanas começam a abrir processos na justiça em defesa à propriedade intelectual dos seus textos, que eles alegam terem sido usados como base para o treinamento do chatGPT. Empresas como o Twitter e Reddit estão fechando acesso a suas bases de dados para que os textos dentro dos aplicativos não alimentem de graça as bases de treinamento de empresas que vão ganhar dinheiro com IA. 
+
+Pois é, o questionamento é legítimo: se o meu texto foi usado para treinar uma inteligência artificial que vai gerar lucro para você, eu não teria direito a uma parte disso? Eis a pergunta de 1 milhão...ops, 1 bilhão.
+
 
 Um abraço e até a próxima.
