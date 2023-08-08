@@ -1,5 +1,7 @@
 |Título                                                                                                                                                  |Data      |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+|[Nômades Digitais](colunas/nomades.md)                                                                                                                    |09/08/2023|
+|[Baterias de smartphone](colunas/threads-vs-twitter.md)                                                                                                                    |02/08/2023|
 |[Google lança o Bard](colunas/bard.md)                                                                                                                    |19/07/2023|
 |[A batalha das redes sociais: Threads vs Twitter](colunas/threads-vs-twitter.md)                                                                                                                    |12/07/2023|
 |[John Goodenough, o pai das baterias recarregáveis](colunas/goodenough.md)                                                                                                                    |05/07/2023|
