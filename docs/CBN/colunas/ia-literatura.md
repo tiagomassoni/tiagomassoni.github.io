@@ -1,5 +1,5 @@
 
-Uma autora norte-americana encontrou na Amazon uma série de livros falsos usando seu nome que não foram escritos por ela e não foram publicados por sua editora. Todos gerados por inteligência artificial. O que essa tecnologia pode trazer de ruim (e de bom) para quem escreve livros?
+Uma autora norte-americana encontrou na Amazon uma série de livros falsos usando seu nome que não foram escritos por ela e não foram publicados por sua editora. Todos gerados por inteligência artificial. O que essa tecnologia pode ter de consequência para quem escreve livros?
  
 
 _Cuidado ao comprar um ebook do sua autora preferida! Ela pode nunca ter escrito esse livro. Vamos falar como a geração livre de textos com Inteligência Artificial está criando polêmica no mercado editoral._

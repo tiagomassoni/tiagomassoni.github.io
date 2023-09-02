@@ -1,5 +1,6 @@
 |Título                                                                                                                                                  |Data      |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+|[Taxis sem Motorista](colunas/taxis-sem-motorista.md)                                                                                                                    |17/08/2023|
 |[IA e Literatura](colunas/ia-literatura.md)                                                                                                                    |17/08/2023|
 |[Nômades Digitais](colunas/nomades.md)                                                                                                                    |09/08/2023|
 |[Baterias de smartphone](colunas/threads-vs-twitter.md)                                                                                                                    |02/08/2023|
