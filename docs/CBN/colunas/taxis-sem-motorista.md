@@ -12,7 +12,7 @@ Recentemente, empresa obtiveram aprovação para operar taxis sem motorista em S
 Bom dia ouvintes da CBN,
 
 
-Duas empresas de taxi sem motorista, a Waymo e a Cruise,   foram autorizados recentemente a operar seus serviços de robotáxis pagos 24 horas por dia, 7 dias por semana na cidade de São Francisco, California, após uma acirrada audiência pública de seis horas, na qual os moradores expressaram seu apoio e oposição aos veículos. Isso é uma grande vitória para os operadores de veículos autônomos, que gastaram dezenas de bilhões de dólares na tecnologia com muito pouco retorno até agora.
+Duas empresas de taxi sem motorista, a Waymo e a Cruise, foram autorizados recentemente a operar seus serviços de robotáxis pagos 24 horas por dia, 7 dias por semana na cidade de São Francisco, California, após uma acirrada audiência pública de seis horas, na qual os moradores expressaram seu apoio e oposição aos veículos. Isso é uma grande vitória para os operadores de veículos autônomos, que gastaram dezenas de bilhões de dólares na tecnologia com muito pouco retorno até agora.
 
 A Comissão de Utilidades Públicas da Califórnia (CPUC) votou 3 a 1 a favor de permitir que as duas empresas operem seus veículos a qualquer hora do dia em toda a cidade de São Francisco, cobrando por viagens.
 
