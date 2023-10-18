@@ -18,6 +18,8 @@ I'm listing here a series of guidelines for research that I've been using for ye
     
     [Threats to Validity](threats.md)
 
+    [Ways to Improve](waysToImprove.md)
+
 4. [Present research](presenting.md)
 
 5. [Write your dissertation/thesis](thesis.md)
