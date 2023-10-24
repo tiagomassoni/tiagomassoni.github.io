@@ -102,3 +102,10 @@ Instead of *LeBron James scored well and pulled down several rebounds*, use *LeB
 
 If you want to emphasize the amount of money that somebody owes you, you write, “By June first please send me a check for $107.12.” If you want to emphasize the due date, you write, “Please send me a check for $107.12 by June first.” And if you want to emphasize who the check is to go to, write, “On June first the check for $107.12 should be sent to me.”
 
+## Highlight important passages, sentences or words
+
+Use italics, sometimes boldface, to promote the relevant parts of the text. They are important for quick reading fragments, which is more common than we'd like to admit. 
+
+For instance: "the high positive correlation of *0.8* provides evidence on how *stress and mental illness are related*. 
+
+
