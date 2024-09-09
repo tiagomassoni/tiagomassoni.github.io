@@ -1,20 +1,24 @@
 # Tiago Massoni
 
-### Education
+## Education
+
 Software Engineering, Ph.D. (2008), from UFPE (Brazil)
 
-
-### Work Experience
+## Work Experience
 
 UFCG: Associate Professor Computer Science (2009 - now)
 
-### Research Interests
+## Research Interests
 
-One 
+One
+
 - Yeah
+
 - Alright
 
 Two
+
 - Great
 
+## Resources
 
