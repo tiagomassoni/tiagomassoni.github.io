@@ -1,4 +1,4 @@
-# Associate Professor in Computer Science
+# Tiago Massoni
 
 ### Education
 Software Engineering, Ph.D. (2008), from UFPE (Brazil)
