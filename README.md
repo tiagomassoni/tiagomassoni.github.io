@@ -22,3 +22,4 @@ Two
 
 ## Resources
 
+[Other page](https://tiagomassoni.github.io/other.html)
