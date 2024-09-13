@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "tiagomassoni.github.io",
+			"path": "."
+		},
+		{
+			"name": "escritos",
+			"path": "../../tiagomassoni.github.io/docs/escritos"
+		},
+		{
+			"name": "CBN",
+			"path": "../../tiagomassoni.github.io/docs/CBN"
+		},
+		{
+			"name": "research",
+			"path": "../../tiagomassoni.github.io/docs/research"
+		}
+	],
+	"settings": {}
+}

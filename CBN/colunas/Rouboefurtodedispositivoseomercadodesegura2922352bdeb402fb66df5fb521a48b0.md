@@ -1,0 +1,39 @@
+# Roubo e furto de dispositivos e o mercado de seguros para aparelhos no Brasil e no mundo.
+
+Data: January 13, 2021
+Palavras chave: furtos, roubos, seguro, smartphone
+
+Bom dia ouvintes da CBN,
+
+Pesquisas recentes mostram que até meados do ano passado, tinham sido roubados ou furtados mais de 100 milhões de celulares no Brasil. Esses números trazem que 61% dos brasileiros (mais de 120 milhões de pessoas) tiveram o celular roubado ao menos uma vez. Em média, cada brasileiro teve o celular roubado ou furtado mais de uma vez. 
+
+É esperado que o smartphone seja um produto cobiçado. Para quem quer roubar, é um item que combina altíssimo valor com portabilidade – fácil de carregar e esconder, assim como eram os relógios antigamente. Além dos mais, o smartphone tornou-se um objeto muito cobiçado por ter rápida venda no mercado irregular e pelo valor elevado, mesmo na revenda. Pessoas que comercializam smartphones sem procedência acabam aumentando o incentivo pro crime, pois mantém a demanda alta por esses produtos.
+
+**Não só no Brasil, mas no mundo todo, um smartphone roubado ou furtado vai para um intermediário, sendo reaproveitado de alguma forma. Pelo menos hoje, por ser na prática um computador conectado à internet, já fica difícil alguém simplesmente colocar um novo chip e começar a usar. Os fabricantes de telefone normalmente oferecem aplicativos de rastreamento, e assim você pode ao menos apagar o aparelho assim que ele for ligado. Além disso, existe um sistema global de cadastro de IMEI (Identidade Internacional de Equipamento Móvel), um código de 15 números que permite que uma pessoa possa usar chips das operadoras nacionais. Após um furto ou roubo, esse código pode ser bloqueado, deixando a linha inoperante. Agentes da Polícia Civil solicitam o bloqueio do Imei no momento em que a vítima registra ocorrência; a corporação faz uma interface com a Anatel e encaminha esse pedido via ofício.** 
+
+No entanto, esse sistema ainda possui brechas, pois permite que os aparelhos continuem em circulação no mercado ilegal. Pesquisa recente do Sindicato Nacional das Empresas de Telefonia aponta que, **apesar de o usuário solicitar o serviço nas operadoras ou na Polícia Civil, o telefone ainda pode ser usado; os celulares bloqueados servem apenas para proteger os dados da vítima. Dessa forma, o aparelho ainda pode ser usado para acessar a internet e aplicativos, bastando estar conectado a uma rede wi-fi. Além disso, há criminosos que conseguem burlar esse sistema, mudando o código de identificação. A clonagem e a adulteração do Imei** permite que o celular continue no mercado.
+
+Ainda há a forma menos sofisticada de **reaproveitamento**, que é parecida com o desmanche que existe para automóveis – o mercado de peças. **Peças originais da Apple ou da Samsung,** por exemplo, são caras, se comparadas com o preço do aparelho. E aí, como muita gente leva celular pra assistência com tela quebrada ou algum defeito, querendo preços baixos de conserto...ou seja, peças roubadas podem estar sendo usadas no seu próprio aparelho.
+
+Isso é tão sério no Brasil que já tem o projeto de lei no Congresso Nacional que fixa regras para o comércio de telefones celulares usados e peças desses aparelhos. Pela proposta, a atividade de compra e venda de aparelhos e peças de celulares usados somente poderá ser realizada mediante registro prévio junto à administração pública, sem prejuízo da obtenção de alvará de funcionamento.
+
+Tem ainda uma outra via de reaproveitamento. **Para fugir do sistema IMEI, aparelhos podem ser habilitados em países da Africa, como Nigeria, Somália e Etiópia**, que não estão nesse sistema internacional. Várias apreensões recentes foram feitas no aeroporto internacional de Guarulhos em SP, gente com a mala cheia de aparelhos roubados prontos pra viajar. Nesses países o valor do smartphone roubado pode chegar a valores absurdos, já que as operadoras não tem muita preocupação em verificar procedência. E aí o lucro pra essas quadrilhas é alto.
+
+Talvez não haja muito o que fazer pra não ser vítima, além das instruções de praxe que a Polícia fornece, principalmente pedindo um cuidado maior na utilização. Ainda assim, o smartphone é um produto pequeno, e a gente se distrai, é fácil perder, deixar em algum lugar, por um segundo, e aí tchau. E no caso de roubo, nem pensar em reagir, né?
+
+O que dá pra fazer então? Tentar aumentar a chance de recuperação do aparelho e minimizar os prejuízos. Primeiro, deixar o Imei anotado em algum lugar para conseguir, se for o caso, fazer a interdição da linha posteriormente e registrar ocorrência na Polícia Civil. Geralmente, o código fica exposto na caixa do produto ou pode ser consultado pelo próprio celular: basta telefonar para *#06# que o número aparece na tela. Esse número também vale pra você provar que o smartphone é seu, caso ele seja recuperado. Além disso, todos os novos celulares já oferecem opções de segurança na tela para o usuário. A senha numérica é a mais comum, mas já tem até biometria e reconhecimento facial, uma camada a mais de segurança. E ainda, sabemos que deixar a localização do dispositivo ligada consome bastante bateria. Mas, imagine poder rastrear onde o seu smartphone está? É só ir nas configurações do seu aparelho e habilitar o recurso.
+
+Se existe uma coisa que você deve fazer agora é verificar se o seu smartphone está com o backup automático ativado. Caso não esteja, vá nas configurações do aparelho, habilite a opção e faça o backup dos seus dados imediatamente. Backup é chato, parece uma coisa que não compensa, mas, como a gente agradece depois por ter feito! Ele não só servirá em casos de roubo, como também será útil se algum componente do aparelho der problema. As informações, em geral, ficam salvas na nuvem, sendo possível restaurar os dados em outro smartphone.
+
+Caso você se veja na situação de ser roubado, o que fazer? O pouco a fazer, além de registrar a ocorrência:
+
+- Tente usar o mecanismo para **[rastrear e bloquear o aparelho](http://g1.globo.com/tecnologia/blog/tira-duvidas-de-tecnologia/post/saiba-usar-pesquisa-no-google-para-localizar-o-smartphone-perdido.html)** (Find My Phone ou Conta do Google ). Claro, o acionamento dessa função só terá algum efeito prático quando o aparelho for conectado na internet através da rede Wi-Fi, considerando que houve o bloqueio do número de IMEI; mas pode ajudar, vai saber.
+- Altere a senha da sua conta de e-mail e redes sociais.
+
+Provavelmente os criminosos devem ter redefinido as configurações originais de fábrica durante uma tentativa de desbloqueio do número de IMEI, nesse caso as suas informações pessoais foram perdidas. Mas seguindo essas dicas dificilmente eles terão acesso aos seus dados.
+
+Pra terminar, qualquer bem valioso que pode se perder é um alvo do mercado de seguros. Existem seguros exclusivos para smartphones. Tanto as principais operadoras do Brasil quanto grandes seguradoras oferecem esse serviço, que consiste no pagamento de uma taxa mensal; no Brasil, estima-se que cerca de 15% dos novos aparelhos são segurados. Para fazer o registro do sinistro é preciso uma série de documentos, entre eles o boletim de ocorrência no caso de roubo e furtos. Após análise do seguro, a empresa pode fornecer um novo dispositivo ao cliente - muitas vezes cobrando uma **franquia.** Seguros já podem ser feitos pelas operadoras e em empresas especializadas em seguros. Importante: em geral, as seguradoras oferecem cobertura para roubos e furtos qualificados, envolvendo ameaça ao dono do smartphone. Se você esquece seu smartphone no bar e ele some, o seguro não cobre.
+
+Há valores mensais, em torno de 100 a 150 reais, dependendo do valor do aparelho. Ainda tem a franquia, que pode sair 25% do valor do aparelho. Parece compensar mais para o caso de aparelhos mais caros, topo de linha.
+
+Um abraço e até a próxima!

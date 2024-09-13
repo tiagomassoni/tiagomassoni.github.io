@@ -1,0 +1,49 @@
+# Um ano de pandemia. O que a tecnologia fez pra nos salvar?
+
+Comentário: tema mais filosófico
+Data: March 17, 2021
+Palavras chave: covid-19, pandemia
+
+[ideias - manual do usuário](Um%20ano%20de%20pandemia%20O%20que%20a%20tecnologia%20fez%20pra%20nos%20%203afade1a1bcf42f29453b1f089078b0f/ideias%20-%20manual%20do%20usua%CC%81rio%20f7030c51f4d74a6a8ac62571a76ef98b.md)
+
+Resumo
+
+**A tecnologia amenizou os efeitos da COVID-19, mas não só isso; entranhou-se em nossa vida a ponto de também querer fugir dela. Nossa vida transferiu-se para o mundo virtual de uma hora pra outra. Reflito sobre os benefícios e perigos de um ano da nossa vida atrás das telas.** 
+
+---
+
+Bom dia ouvintes da CBN,
+
+Há um ano, março de 2020,  a OMS elevou a crise do coronavírus [ao status de pandemia](https://noticias.uol.com.br/colunas/jamil-chade/2020/03/11/proliferacao-de-coronavirus-leva-oms-a-declarar-pandemia.htm?utm_source=manualdousuario&utm_medium=email). No Brasil, o primeiro caso é de dias antes, 26 de fevereiro, e a primeira morte foi registrada em 17 de Março. Governos  começaram a decretar medidas de distanciamento. E aqui estamos, 12 meses depois, com 100 milhões de infectados no mundo, e dois milhões de mortos. Um desastre que vai nos marcar por gerações. 
+
+E o mundo teve que continuar girando. A maioria de nós viu o ano passar nas janelas e varandas. Nosso olhar sempre se alternando entre aplicativos de computador, de smartphone, de televisão. Nem ligamos mais se estávamos abusando do tempo de tela, nossa vida estava lá — deixou de ser lazer ou passatempo, virou necessidade.
+
+Acho que aprendemos duas coisas importantes sobre o papel da tecnologia na vida das pessoas. Não há dúvida de que como ferramenta, ela foi essencial em ajudar a manter negócios e serviços funcionando. Mesmo assim, nossa vida predominantemente digital criou novos problemas que serão difíceis de resolver. 
+
+#diferenças gripe espanhola
+
+Quando a *Gripe Espanhola* aterrorizou os habitantes do mundo de uma centena de anos atrás, os melhores cientistas do mundo não puderam identificar o virus. Muitas as medidas adotadas eram inúteis — a moda era tomar um negócio chamado Quinino, que não funcionava e era tóxico...*há quem diga que a história se repete, não é mesmo?* E as tentativas de criar uma vacina fracassaram. Por que dessa vez tem sido diferente? O avanço da ciência que permitiu esse cenário deve muito à tecnologia. O primeiro alarme soou no final de Dezembro de 2019; já em 10 de Janeiro de 2020, cientistas já tinham isolado o virus, sequenciado seu genoma e publicado essa informação na internet. Isolar o virus exige tecnologia de visualização do virus; sequenciamento de genoma depende de programas de computador de alta escala de processamento; além disso, publicar e disseminar essas informações entre a comunidade científica precisa da internet, algo que estava muito distante em 1918.
+
+Além dos avanços da biotecnologia, esse ano de Covid-19 destacou a tecnologia da informação — o que chamamos o conjunto de equipamentos e avanços que permitem o processamento e envio instantâneo de dados entre dispositivos. No passado, as pessoas teriam enorme dificuldade de conter uma epidemia, já que não teríamos a capacidade de monitorar as cadeias de infecção em tempo real, e o custo de lockdowns — algo que o Brasil decidiu não fazer — seria muito, mas muito pior do que é hoje. 
+
+Considere a agricultura, por exemplo. Por milhares de anos, 90% das pessoas trabalhavam no cultivo de alimentos, em áreas rurais, o que já não o caso na maioria dos países. Quase todo trabalho em fazendas é hoje automatizado por soluções tecnológicas que são imunes a doenças. Em tempos antigos, lockdowns impediriam as pessoas de trabalhar na única forma de produção de alimentos da época, provocando fome em massa. 
+
+Temos que admitir que é um privilégio viver num mundo que, devido o avanço nas ferramentas de comunicação e na capacidade de processamento de dados, pôde continuar com o trabalho, com a escola, além de relativamente preservar as relações familiares. Pudemos transformar nossos quartos em escritórios, e de lá conversar com dezenas de pessoas ao mesmo tempo, coordenar atividades de grupos, mantendo contato com amigos e conhecidos. A cultura nos permitiu sobreviver com alguma saúde mental através de livros digitais e filmes em *streaming.* Poderíamos imaginar, há dez anos, um mundo em que uma banda de forró que poucos conhecem possa tocar umas músicas ao vivo sendo assistido, em tempo real, por 400 pessoas espalhadas pelo Brasil? Aderimos desesperadamente às Lives como gancho que nos remetia ao mundo dos shows lotados que já não mais existia. O formato acabou cansando, como tudo que é incessantemente repetido; é triste reconhecer que a repetição acaba estando presente no tédio dos nossos dias sem encontros para exercitar os afetos. 
+
+Nossa dependência da infraestrutura de internet aumentou absurdamente. De certa forma, com o mundo usando 30x mais dados, a internet se manteve estável. Imagine como seria a nossa vida pandêmica se ficássemos sem internet, mesmo que por alguns dias apenas? 
+
+A adaptação forçada a esse contexto obrigou as pessoas a aprender a usar a tecnologia para poderem sobreviver com seus trabalhos; não podíamos mais depender de pessoas "da área", tivemos que assistir vídeos no Youtube e lives para aprender a usar certos aplicativos no computador. Professores tiveram que aprender a editar vídeos e dar aulas ao vivo através de câmeras e microfones; administradores, advogados, juízes, médicos, jornalistas,  tudo agora é via software, sem intermediários. A necessidade provavelmente nos deixou mais preparados para o futuro tecnológico que estava sendo prometido mas que chegou mais cedo. Claro que isso cria uma certa distorção no mercado de trabalho, já que profissionais de Tecnologia da Informação estão sendo muito requisitados; há indicações de que a procura por profissionais da área cresceu mais de 150%. A pandemia escancarou que precisamos educar e formar muita gente qualificada nas áreas de tecnologia. 
+
+Muita gente aprendeu a pedir sua comida e sua feira através da internet. Os negócios tiveram que correr pra tentar sobreviver, apesar de que alguns até cresceram dentro de comunidades online, justamente por oferecer serviços digitais com agilidade e segurança. O começo foi bastante difícil; foi tudo tão rápido e surpreendente, em praticamente uma semana a presença física dos consumidores despareceu, e muito poucos tinham alguma preparação pro que estava vindo. Me lembro aqui em Campina Grande de que alunos voluntários de cursos de tecnologia na cidade, capitaneados por um Professor da Computação UFCG, João Arthur, criaram, em poucos dias, dezenas de sites e atendimento digital para mercadinhos de bairro, vendedores de água, doceiros, entre outros, que acabou sendo o pontapé inicial para que esses negócios se estabilizassem ou pelo menos minimizassem os prejuízos.
+
+Também lembro que colegas especialistas da UFCG em ferramentas de análise de dados que, em poucas semanas, disponibilizaram gratuitamente plataformas para visualizar a evolução do contágio do virus e a ocupação dos leitos — serviços que ajudam na divulgação de informações até hoje.
+
+Já as empresas que fornecem tecnologia, as chamadas plataformas, como empresas de rede social, busca, e oferta de serviços, essas seguraram a onda e foram recompensadas pelo mercado. No Brasil, empresas que já apostavam na digitalização colheram os louros dessa boa sacada muito antes do que esperavam. “Antecipamos em cinco anos o processo de digitalização”, era o discurso corrente. Pelo poder dessas empresas ter crescido tanto é que agora o cerco dos governos sobre elas aumentou tanto, principalmente no voracidade delas em explorar nossas dados. Ninguém nega que o que acontece nas redes sociais e nos serviços online é um espelho da sociedade real, mas também é evidente que o grau de influência que as redes têm hoje na nossa vida confinada acaba amplificando o que há de pior nas pessoas.
+
+Com o aumento da nossa presença online, ficamos mais expostos a novos perigos. Estamos mais vulneráveis a ataques cibernéticos, o que antigamente chamávamos, ironicamente, de virus. Hoje a gama de possibilidades de ataques virtuais é muito mais ampla. Vocês devem ter percebido que roubos massivos de dados têm se multiplicado; somos mais frágeis por estarmos mais presentes online. Nossa privacidade também está menos protegida, só pelo fato de usarmos mais serviços online, como redes sociais. A falta de contato físico faz com que expressemos o que pensamos mais publicamente, e talvez só nos daremos conta disso quando voltarmos a viver lá fora. 
+
+As plataformas digitais instituíram regras e desde então removeram muito conteúdo falso relacionados à COVID-19. Mesmo assim, na entrada do supermercado ainda medem minha temperatura no pulso, o que mostra que as fake news espalhadas pelo meio digital continuam vivas e afetando as nossas vidas.
+
+Me recordo que discursos otimistas do passado previam que a disseminação das plataformas digitais traria todos os benefícios possíveis de uma sociedade conectada. O poder computacional e a velocidade da conexão salvariam vidas, por promover e espalhar o conhecimento científico. Não dá pra negar que essas coisas se confirmaram, tudo isso acontece, mas não no grau que imaginamos. A ciência e a tecnologia não substituem a política; se estamos na atual situação, é porque as decisões políticas acabam prevalecendo. Essa seja talvez a maior lição da pandemia atual. E com esse aprendizado, que seja a última a tirar tantas vidas.
+
+Um abraço e até a próxima.

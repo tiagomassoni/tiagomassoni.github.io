@@ -1,0 +1,44 @@
+# NFT: obras de arte digitais?
+
+Data: May 26, 2021
+Palavras chave: blockchain, nft, smartphone
+
+Assim como um colecionador compra obras de arte, podem interessados comprar uma meme digital ou um post no facebook? Isso só seria possível se conseguirmos determinar que uma obra digital é única e não-copiável. Tem uma novidade tecnológica que tenta fazer justamente isso, e está balançando a comunidade artística: os NFTs.
+
+Bom dia ouvintes da CBN,
+
+Se você permaneceu no planeta terra durante toda a sua vida, você certamente conhece o quadro “Mona Lisa”, de Leonardo Da Vinci. 
+
+É uma obra única, está exposta no museu do Louvre, às margens do rio Sena, em Paris. Valeria milhões de dólares, se estivesse à venda. Mesmo assim, qualquer pessoa pode buscar pela imagem do quadro na web, baixar no computador, imprimir e colocar numa moldura. E aí, vale a mesma coisa? A arte tradicional — pintura e escultura, por exemplo — produzem artefatos físicos únicos. Existem colecionares que compram e guardam tais objetos, e isso faz todo sentido, porque esses são únicos. Depois da invenção da fotografia, o mundo teve que se acostumar com a ideia de que as obras poderiam ser reproduzidas infinitamente. A resposta do mundo da arte pra isso foi que, para questões de autenticidade, para coleções, o que valem são as obras assinadas pelos autores. Nesse mundo então, o que faz uma obra assinada pelo autor é simplesmente sua assinatura. Tem gente que paga fortunas por uma foto autografada, ou um disco, ou um livro. 
+
+Na era digital, com tudo facilmente copiável e transmissível pela rede, até há pouco tempo essa ideia nunca vingara. Músicos e cineastas, produtores de programas de TV, produtores da arte mais moderna, podemos dizer assim, viram ruir seus mercados de venda de artefatos. O produtos, DVDs e CDs, discos e fitas, nada disso faz sentido, já que o que vale de verdade, o conteúdo, está ao alcance de um clique. 
+
+Pois é, pode ser que, com os últimos avanços de criptografia na internet, enfim conseguiremos reproduzir a experiência dos objetos digitais únicos, "assinados" pelos artistas, comprovadamente para acesso de poucos, ou apenas um comprador. 
+
+O nome da novidade é o NFT, o assunto da vez nos círculos artísticos. **NFT** é a sigla em inglês que pode ser traduzida para **“tokens não-fungíveis”**. 
+
+O nome é estranho assim mesmo, mas pense no seguinte: um símbolo, um selo fungível diz respeito a qualquer coisa que possa ser substituída por outra da mesma espécie. Assim, **token não-fungível pode ser classificado como um símbolo que não pode ser substituído**. É algo único e, por esse motivo, tem uma autenticidade que nenhum outro produto conseguirá obter.
+
+Qualquer pessoa pode vender um ativo NFT, desde que tenha algo de interesse pra oferecer. Se houver alguém disposto a gastar dinheiro nela, pode ter certeza que a obra NFT será bastante procurada. Uma “Mona Lisa” que uma pessoa poderia comprar, e só ela, ou algumas poucas pessoas teriam. A diferença é que essa Mona Lista é digital. Pode ser uma música, uma foto, um post em rede social, ou até um meme! Mesmo existindo inúmeras cópias desse objeto na internet, o NFT traz a exclusividade de adquirir uma propriedade intelectual.
+
+Deixa eu dar alguns exemplos que já aconteceram. A banda de rock **Kings of Leon** foi a primeira a registrar um álbum em NFT. O disco *When You See Yourself* foi lançado em todas as plataformas digitais no início de março deste ano (todo mundo pode escutar nos aplicativos de música), mas ganhou versões únicas via NFT, que dão aos compradores artes exclusivas e entradas vitalícias em futuros shows do grupo. Nisso aí, eles arrecadaram até agora [US$ 2 milhões](https://www.rollingstone.com/pro/news/kings-of-leon-when-you-see-yourself-album-nft-crypto-1135192/).
+
+Já chegamos aos extremos com isso. Um artista plástico digital com o psedônimo [Beeple](https://www.instagram.com/beeple_crap/), vendeu uma obra digital como NFT no início deste ano. O comprador adquiriu a obra e o certificado de autenticidade digital por US$ 69,3 milhões, o que foi considerado um dos maiores valores pelo qual um artista vivo conseguiu vender sua arte. Tem um vídeo no Youtube mostrando a reação maravilhado e surpresa do artista no hora que ele viu o valor da venda. A obra é uma colagem de 5000 imagens que ele fez, uma por dia, durante 5000 dias.
+
+Por ser uma tecnologia 100% digital, o NFT precisa de um mecanismo seguro de autenticação, já que não pode haver cópias piratas desse conteúdo. NFTs são armazenados na **blockchain**, a gigantesca base digital que computa milhares de transações e distribui os registros de cada uma delas em várias máquinas espalhadas pelo mundo — falei da tecnologia blockchain há alguns semanas aqui, quando abordei criptomoedas.
+
+Cada bloco neste sistema é ligado ao anterior por um código chamado “hash”. Conforme novos blocos vão aparecendo, o hash cria uma corrente de blocos, formando assim o blockchain. Além disso, toda a “biblioteca” do blockchain, dividida entre várias máquinas espalhadas no mundo, é pública, tornando a tecnologia muito transparente. Por esse motivo, o NFT viu na blockchain uma maneira prática e segura de completar a venda de ativos entre vendedores e compradores, já que cada obra é autenticada individualmente. A grande maioria das negociações de compra desses ativos é feita usando de criptomoedas, embora também seja possível vender ativos NFT por meio de moedas tradicionais.
+
+De forma meio surpreendente, quando se compra um NFT, adquire-se um arquivo de poucas linhas de texto ligado ao site da startup que criou e vendeu o NFT. Isso é o token.
+
+Em geral, essas tecnicalidades podem assustar compradores e vendedores, por ora. Por outro lado, estamos falando de algo que pode representar o futuro de como se consome arte – especialmente após o longo período de prejuízo que a indústria do entretenimento viveu nos últimos anos, com a pirataria e mais recentemente com a pandemia. Apesar de que muitos produtos artísticos já serem há muito tempo considerados digitais, por causa de sua representação em arquivos — mp3, mp4, gif, jpg — esse conceito mais recente de arte digital pode levar a experiência de consumo da arte a um outro patamar. Depois de tantos anos tentando alguma forma de fazer remuneração a partir de sua arte na internet, podemos estar próximos de uma mudança significativa de mercado, que pode ter implicações bastante interessantes na oferta de arte e fomento a novos artistas. Ou seja, fazer com que artistas sejam remunerados de forma proporcional ao impacto cultural que suas obras atingem no mundo. O trabalho continua a ser apreciado livremente na internet, ou através de serviços de baixo custo, como o *streaming*, mas a assinatura do artista permanece escassa, e assim de alto valor.
+
+Claro que as implicações desse mecanismo se popularizar têm gerado discussão no mercado de arte. NFTs permitiriam, talvez, um sistema de compra e venda direta, apesar de não ser obrigatório, é o que acontece na maioria das transações. Se uma banda com contrato assinado resolver vender ativos NFT sem antes passar pela gravadora, a companhia responsável pelo agenciamento do grupo pode ficar sem ver um tostão, já que todos os lucros iriam direto para os artistas. Seriam esses interesses obstáculo para a adoção consistente dos NFTs?
+
+Esse não seria o único obstáculo. Pelo fato de os NFTs funcionarem de maneira parecida às criptomoedas, surgem questões envolvendo o consumo desenfreado de energia elétrica relacionado ao processamento para criação de blocos criptografadas na blockchain. Como já falei aqui, a mineração de bitcoin alcançou níveis tão altos que já consome mais energia do que toda a Argentina anualmente. Isso acontece porque a mineração é feita em computadores ligados ininterruptamente, processando equações que vão ficando cada vez mais difíceis com o tempo. Tem um lado positivo aqui, porque vários artistas de renome tem procurado fazer esforços para promover novas tecnologias que poderiam ser usadas de forma similar sem a necessidade de mineração, como no caso da blockchain Ethereum, que já testa tecnologias alternativas.
+
+Há também a preocupação de que NFTs sirvam apenas para os endinheirados criarem valor artificialmente pra especular e gerar lucros, como no caso do milionário misterioso que deu quase 70 milhões de dólares por uma obra de arte digital. Em resumo, uma bolha financeira.
+
+Há elogios e críticas de vários lados, há interesses e forças puxando a ideia pra várias direções. Não deixa de ser atrativo pensar que talvez conseguiremos remunerar de forma justa a criatividade de quem produz o conteúdo que nos diverte e distrai das incoerências do mundo lá fora. Imagine uma pandemia sem filmes, livros e música?
+
+Um abraço e até a próxima.

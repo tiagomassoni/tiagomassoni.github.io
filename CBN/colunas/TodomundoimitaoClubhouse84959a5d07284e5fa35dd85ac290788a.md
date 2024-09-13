@@ -1,0 +1,36 @@
+# Todo mundo imita o Clubhouse
+
+Data: April 7, 2021
+Palavras chave: audio, clubhouse, discord, instagram
+
+Bom dia ouvintes da CBN,
+
+Nesse último ano, essa tem sido a regra: travar diálogos, praticamente só com os de casa. Apesar das ferramentas de videoconferência, com todo mundo que está fora de casa, trocamos muito mais mensagens de texto. As conversas fortuitas, banais de que participávamos no dia-a-dia, essas quase sumiram. Talvez seja por sentir falta disso é que nos últimos meses a internet está vidrada num barulho que se dissipa nas redes: uma nova rede social, o aplicativo Clubhouse, criado em 2020 por dois empreendedores do Vale do Silício. Com mais de 6 milhões de perfis inscritos na rede, o app chegou no Brasil em fevereiro com força suficiente para virar um dos assuntos mais citados e procurados na internet, mesmo que limitado aos usuários de iOS (iPhones e iPads). A versão do aplicativo para Android é uma promessa sem data, com previsão de lançamento ainda neste ano.
+
+O maior problema é, por enquanto, a rede é restrita a convidados. Quem já está dentro pode mandar convites para pessoas fora. A fama ficou grande, com gente vendendo convite por mais de 200 reais no Mercado Livre.
+
+Bom, o Clubhouse é um aplicativo exclusivamente áudio, onde amigos e estranhos engajam-se em todos os tipos de conversa. Nelas, não é possível enviar fotos ou vídeos: apenas ouvir e falar. Usuários entram pelo Hall, e entram em salas virtuais para escutar pessoas falando — muitas vezes celebridades, humoristas, políticos — e talvez participar falando também. Tudo parece meio por acaso, na hora você vê as salas que estão abertas, entra, escuta um pouco, vê se interessa, sai, vai pra outra. E justamente essa sensação de aleatoriedade é o que engaja o usuário. Quando você entra, você vê uma lista de eventos, podemos chamar assim, como se fosse um congresso onde você tem várias palestras, ou conversas, dos mais variados temas: como "comédia em tempos de pandemia" ou "como ser mais produtivo no home-office" ou "fazendo doces sem usar leite condensado". Se você se interessar por algum evento, você pode pedir pro aplicativo notificar você quando começar, ou você pode adicionar no seu calendário. 
+
+Há eventos marcados e até "programas" fixos, com dia e hora para acontecer, como o "The Good Time Show", onde, inesperadamente, Elon Musk apareceu, no dia 31 de janeiro para falar sobre seu interesse por criptomoedas, os planos de colonização de Marte e distribuição de vacinas. Dá para criar chats privados, de tema livre, para falar apenas com seus contatos. Como moderador, você controla quem pode falar e quem apenas escuta. Dá até para definir que você seja o único permitido a falar. Assim, o Clubhouse pode ser usado para os mais diversos fins: uma aula online, uma reunião de trabalho, uma missa, uma consulta ou até para comentar "ao vivo" com seus amigos sobre um filme.
+
+A participação é apenas em tempo real —não se pode reproduzir áudios antigos, como em uma conversa de WhatsApp ou Telegram. O que foi falado, morre ali. Nas salas menores, todos os participantes podem ficar com o microfone aberto. Funciona como uma chamada de voz normal: não é preciso apertar nada para falar. Nas maiores salas, há moderação, só se fala quando alguém permitir. Você pode levantar a mão, e esperar ser chamado pra falar...aí não pode ficar tímido.
+
+A ideia é simples: proporcionar inclusão e diversidade de opiniões que você não encontraria tão facilmente por aí. O mote da rede é você contribuir para os mais distintos assuntos, querer falar, trocar experiências e contatos. Mas, também, escutar o outro. O protagonista é o áudio. Não à toa, o aplicativo chegou em um momento propício. Já se notava uma grande procura por podcasts e apps de ligações. A própria Netflix, nos últimos meses, vem trabalhando para que seus assinantes possam escutar uma série ou filme da plataforma. A saudade de se aglomerar pode ter contribuído para a fama do aplicativo.
+
+Aconteceu o estouro, e a empresa foi recentemente avaliada em US$ 1 bilhão, entrando para o seleto grupo dos "unicórnios".
+
+No Brasil, o uso do Clubhouse começou a pegar depois que o diretor do BBB, o Boninho, entrou lá pra conversar sobre o reality show, no início de Fevereiro. Na sequência, você encontra personalidades como Tatá Werneck e Luciano Huck. Hoje, já tem salas mais permanentes, como Astrid Fontenelle, que debate, todos os dias, as notícias dos jornais. Assuntos: análise de temas desde o próprio Clubhouse como o cenário político do País. O dia é abastecido nas rodas sobre marketing de influência, mercado financeiro, empreendedorismo, tecnologia, sustentabilidade, esportes, entre tantos outros assuntos. Uma grande rede de trocas e novos negócios nasce ali, com potencial bastante promissor.
+
+Tal alvoroço tem consequências, não só no mundo virtual. Na China, salas eram usadas pra bater papo sobre questões políticas e sociais. Resultado, que já era esperado em uma ditadura: o governo bloqueou o aplicativo. 
+
+Já no resto do mundo, o sucesso do Clubhouse precisa ser imitado de qualquer forma. E aí muitas das grandes empresas de tecnologia correram pra criar clones do Clubhouse — pelo menos 25 imitações já foram anunciadas ou lançadas, incluindo recursos novos do Twitter (Spaces), Telegram, LinkedIn e Instagram.
+
+No vale do Silício, parece que você tem que aproveitar pra ganhar dinheiro com uma ideia o mais rápido possível antes que ela vire um commodity, uma coisa banal, comum, que pode ser imitada por qualquer um, provavelmente com mais sucesso, se o concorrente for mais poderoso. Já virou historinha de ninar a "batalha" de 2017entre Snapchat, a pequena rede social que inventou os vídeos curtos que ficam online apenas por algumas horas, e o Instagram, que tentou primeiro comprar a primeira e, com sua oferta recusada, esmagou o pequeno concorrente imitando seu melhor recurso, no que virou o Instagram stories. Adivinha quem ganhou?
+
+Outra questão a ser enfrentada pelo Clubhouse e imitações é a moderação. Já apareceu muita coisa de misoginia, racismo e antissemitismo nas salas de conversa, e a plataforma teriam enorme dificuldade de moderar tais coisas em tempo real. Em algum momento, isso terá que ser tratado, para não sofrer as sanções que todas as plataformas de rede social têm sofrido por esse motivo.
+
+A verdade é que ainda não se sabe bem como criar um modelo de negócio para o Clubhouse, que procura aumentar o alcance da plataforma a partir dos influenciadores que nascem nas salas de conversa. Quanto ao futuro da plataforma, liberdade de opiniões e discussões quentes ainda seguem populares. E não se sabe ainda o quanto esse agito em torno do app pode durar, principalmente no momento em que a população voltar às ruas depois da vacina. Analistas preveem uma queda de 30% na participação de usuários no aplicativo, no pós-pandemia. Ou seja, teremos mais opções pra jogar conversa fora por aí.
+
+E eu vou indo mandar mensagem nos grupos do zap pra ver se alguém conhecido me manda um convite.
+
+Um abraço e até a próxima.

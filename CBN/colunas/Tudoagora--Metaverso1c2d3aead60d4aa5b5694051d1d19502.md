@@ -1,0 +1,42 @@
+# Tudo agora é Metaverso?
+
+Data: November 17, 2021
+Palavras chave: Meta, facebook, metaverso
+
+**Opa, que Facebook o que? Agora é Meta! Isso mesmo, o dono das redes sociais da nossa vida foi rebatizado. Por que mesmo todo mundo está tão interessado nesse negócio de metaverso?**
+
+*Metaverso, o conceito que está na ponta da língua das grandes empresas de tecnologia, fez até a maior das redes sociais mudar de nome. Como o mercado entendeu a mudança de nome do Facebook? E o que isso pode mexer com a nossa presença virtual na internet?*
+
+Bom dia ouvintes da CBN,
+
+O tal do metaverso agora é mel pras abelhas gigantes da tecnologia.  Recentemente, a empresa que conhecíamos como Facebook, aquela mesmo, do Face, do instagram, do WhatsApp, agora quer ser conhecida como Meta. Com direito a uma nova logomarca. Esse nome vem do alvo da empresa do Zuckerberg a partir de agora: a tecnologia do Metaverso. Menos de um mês atrás, você provavelmente nunca tinha ouvido falar desse termo. Agora, já deve estar cansada de tanto ler sobre isso.
+
+Podemos resumir essa ideia em algo como um mundo virtual no qual pudéssemos mergulhar para trabalhar e se divertir, sem sair fisicamente de casa, usando alguns equipamentos de imersão e uma conexão de internet de velocidade altíssima, para que as pessoas sintam minimamente a diferença entre o virtual e o real. Metaverso que vem da literatura de ficção científica, mais especificamente de um livro chamada Snow Crash, de 1992, do subgênero Cyberpunk. A ideia representa acesso a uma espécie de realidade paralela, em alguns casos ficcional, em que uma pessoa pode ter uma experiência de imersão. Tecnicamente, o Metaverso não é algo real, mas busca passar uma sensação de realidade, e possui toda uma estrutura no mundo real para isso.
+
+Bom, o que aconteceu depois do anúncio da mudança de nome do Facebook? Dia desses a Samsung anunciou um novo tipo de memória, que traz vantagens como consumir 20% menos energia sendo 30% mais rápida que o modelo anterior, e deverá ser usada em smartphones. Algo que a imprensa especializada não se motivaria muito pra mostra, não fosse por um detalhe: de algum modo, a Samsung enfiou o termo Metaverso no [comunicado à imprensa](https://news.samsung.com/global/samsung-develops-industrys-first-lpddr5x-dram).
+
+Não foi só a Samsung. Nike e GameStop também embarcaram no bonde do metaverso. Empresas que já tinham alguma característica que vagamente lembra o conceito decididamente vago apresentado pelo Facebook, como Epic Games (de *Fortnite*), *Roblox,* Niantic (de *Pokémon Go*) e NVIDIA, já estão mais adiantados nessa história.
+
+Em uma demo da NVIDIA, a empresa criou um Avatar Omniverse a partir da foto de uma mulher, usando a plataforma para treinar uma voz para esta mulher, converter texto para fala, traduzindo-a para vários idiomas. Seria algo como uma atendente virtual simulada mas muito próxima da realidade.
+
+O boom de empresas preocupadas com isso provavelmente implica primeiro no barateamento dos aparelhos de realidade virtual, atingindo um público maior, e a melhoria dos gráficos que eles geram, aumentando o grau de realismo. Com isso, as pessoas seriam mais atraídas para essas novas realidades, em que seria possível criar avatares (o seu eu virtual), interagir com amigos, fazer compras, reuniões, ir ao trabalho ou à escola.
+
+Nesse sentido, o metaverso seria um cyber-espaço comunitário massivo, ligando as realidades aumentada e virtual juntas, permitindo que os avatares pulem de uma atividade virtual para outra, praticamente sem perceber. Seria uma realização enorme, que vai exigir padronização e cooperação entre os gigantes da tecnologia, o que, assim a princípio, seria bem difícil, pelo espírito de competição que domina o setor.
+
+O discurso da Meta, ex-Facebook (preciso ainda ficar repetindo isso pra ver se entra na minha cabeça), está pra ser concretizado na abertura de lojas físicas espalhadas pelas principais cidades do mundo, que serviriam para demonstrar as tecnologias e dispositivos para o Metaverso, principalmente os óculos de realidade de virtuais e equipamentos de imersão. O principal trunfo deles é o Oculus, o dispositivo comprado pelo Facebook há alguns anos que inovou na sua capacidade de aumentar a sensação de imersão, sem que o usuário se sinta nauseado, o que sempre foi o principal problema desses dispositivos de realidade virtual. Eu mesmo, que me vejo atacado pela labirintite de tempos em tempos, quando testei o Óculus há 3 anos me surpreendi pela sua capacidade de não me deixar com vertigem.
+
+O discurso da nova velha empresa é descrever o Metaverso —  a ser construído ainda — como um mundo virtual  "tão detalhado e convincente como este, onde você poderá fazer quase tudo que você pode imaginar". A Meta soltou vídeos de conceito dando uma ideia de como as coisas iriam funcionar, através de jogos de xadrez com hologramas, ou hologramas assistindo a shows e participando de reuniões). Há um planejamento de contratação de 10,000 pessoas pra trabalhar nesses projetos, através de um investimento de 10 bilhões de dólares numa divisão chamada de Reality Labs.
+
+#o que há por trás
+
+Como eu disse aqui há algumas semanas, analistas destacaram que a iniciativa talvez seja uma tentativa de criar uma liga alternativa de consumo de produtos, após perder o timing para entrar em mercados como o de smartphones e assistentes virtuais domésticos. Há também a impressão de que tudo isso seja um esforço do Zuckerberg para adicionar à empresa um projeto inovador que se descole das controvérsias de suas mídias sociais. Se as promessas do metaverso se concretizarem, o Facebook quer se tornar o pioneiro e o nome a ser lembrado tanto nos mundos virtuais como no mundo real, por pessoas de carne e osso. 
+
+Além disso, a imprensa tem chamado a atenção para esses planos de fazer "quase tudo que você pode imaginar", que podem ser uma ideia não tão BOA assim, se imaginarmos suas possibilidades distópicas. Imaginemos que o Metaverso pode trazer uma nova versão do abuso psicológico, das ofensas e do bullying virtual, tudo que o antigo Facebook sempre teve muita dificuldade que lidar. Ou se tudo isso evoluir pra uma enorme coleção de portões virtuais onde cada visitante seria constantemente monitorado e analisado para ser inundado por publicidade. Por exemplo, o Horizon, a plataforma de demonstração inicial da Meta para o mundo corporativo, aconselha seus usuários a tratar os colegas avatares gentilmente, oferecendo dicas para bloquear, mutar ou reportar avatares que não o fizerem. Bom, essas são as regras das redes sociais hoje, o que parece não adiantar muito. O receio é que tudo de ruim que acontece na internet hoje seria potencializado num mundo virtual imersivo.
+
+Ouvi recentemente um analista dando o seguinte exemplo. Imagine que você está numa reunião simulada em um escritório virtual, onde há três pinturas na parede. Você acha uma delas muito interessante, e começa a prestar atenção à pintura, antes da reunião começar.  No metaverso, em tese, todas essas interações podem ser registradas, rotuladas, catalogadas, identificadas a certas preferências sobre desejos e comportamentos. Na próxima vez que você usasse um aplicativo de **redes sociais**, poderiam aparecer anúncios sobre objetos de decoração, com preços levemente maiores (e personalizados), a partir daquele registro do seu interesse, explorando um desejo de forma sutil, induzindo um processo de compra. Um pouco assustador, né?
+
+Bom, já discutimos esse futuro virtual há décadas, e ainda não chegamos em nada parecido com o que já foi previsto. A pergunta é: por que esse interesse atual renovado? Não dá pra negar que alguns benefícios são empolgantes, principalmente num mundo em que a reunião real de pessoas vindas de diferentes locais será cada vez difícil, não só por questões de saúde pública, mas também pelo custo financeiro e ambiental. 
+
+No fim das contas, o foco da discussão não é apenas existir um Metaverso, em que reuniríamos todos nossos relacionamentos, produtos do nosso trabalho e investimentos, mas o fato de que se alguém controlar isso tudo seria algo como um deus tecnológico. E aí, todo mundo tá apavorado com a possibilidade desse deus tecnológico ser o Mark Zuckerberg.
+
+Um abraço e até a próxima
