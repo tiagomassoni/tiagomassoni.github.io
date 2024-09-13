@@ -1,9 +1,3 @@
----
-published-on: 14 September 2024
-title: Tiago Massoni
-google-site-verification: 21zypczNTDVbIicJBADe4t2ucoywQqf-SDy5nhRbtbI
----
-
 
 E-mail: [massoni@computacao.ufcg.edu.br](mailto:massoni@computacao.ufcg.edu.br)
 
