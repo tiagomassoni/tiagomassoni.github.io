@@ -3,7 +3,7 @@
 
 [Solidão](Solidao.md)
 
-[Triste Furada](tristeFurada.Md)
+[Triste Furada](tristeFurada.md)
 
 [Vielas da Memória](vielasDaMemoria.md)
 
