@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tiago Massoni
-description: Associate Professor at UFCG researching human factors in software engineering, software evolution, and interdisciplinary computing in Brazil.
+description: Associate Professor at UFCG
 ---
 
 # Tiago Massoni
@@ -33,6 +33,7 @@ Associate Professor in Computer Science at UFCG, working on human factors in sof
 
 ## Positions
 
+- (Current) Associate Dean - Centre for Electrical Engineering and Informatics ([CEEI](https://www.ceei.ufcg.edu.br/))
 - (Current) Technical Director, Telmo Araujo Innovation Center ([CITTA](https://citta.org.br/)), Campina Grande-PB
 - (2019-2023) Head of Department, Department of Computing and Systems, UFCG
 - (2019-2020) President, Brazilian Computer Society's Formal Methods Committee
@@ -47,13 +48,14 @@ Associate Professor in Computer Science at UFCG, working on human factors in sof
   Selected outputs: [CHASE 2025 Distinguished Paper (preprint)](https://arxiv.org/abs/2503.04460), [SBES](https://dl.acm.org/doi/abs/10.1145/3474624.3474644)
 - Diversity in software teams: women in agile estimation meetings and community smells, in collaboration with [Alexander Serebrenik](https://www.tue.nl/en/research/researchers/alexander-serebrenik), [Gemma Catolino](https://www.gemmacatolino.com/), [Damian Tamburri](https://research.tue.nl/en/persons/damian-a-tamburri), and [Fabio Palomba](https://fpalomba.github.io/).  
   Selected outputs: [SBES](https://sol.sbc.org.br/index.php/sbes/article/view/30394), [SANER](https://ieeexplore.ieee.org/abstract/document/9825896)
+- Hybrid software and ML teams: Ph.D. student Sheila Paiva and M.Sc.student Regina Leticia investigate collaboration dynamics in mixed software/data science teams, with Prof. Franklin Ramalho.
 - Pair programming and diversity: Ph.D. student Rayana Rocha (with Prof. Camila Sarmento) studies how diversity gaps affect pair programming.
 - Community smells and agile retrospectives: Ph.D. student Carlos Fran investigates how retrospective meetings can mitigate social issues in teams.  
   Selected output: [CHASE 2025](https://arxiv.org/abs/2502.18662)
 - Leadership styles in agile teams: Ph.D. student Narallynne Maciel (with Prof. [Lucas Gren](https://www.cse.chalmers.se/~lucasg/)) investigates leadership behavior and team outcomes.  
   Selected outputs: SBES [2023](https://dl.acm.org/doi/abs/10.1145/3555228.3555263), [2024](https://sol.sbc.org.br/index.php/sbes/article/view/30355)
 - Career entry in software engineering: Ph.D. student Danielly Gualberto investigates what motivates people with different educational backgrounds to enter the field.
-- Hybrid software and ML teams: M.Sc. students Sheila Paiva and Regina Leticia investigate collaboration dynamics in mixed software/data science teams, with Prof. Franklin Ramalho.
+
 
 ### Software Evolution and Refactoring
 
@@ -83,8 +85,8 @@ Associate Professor in Computer Science at UFCG, working on human factors in sof
 ## Teaching
 
 - Mathematics for Computer Science II
-- [Logic for Computer Science (Portuguese)](https://tiagomassoni.github.io/logic-texts/)
 - [Human-Machine Interaction (Portuguese)](https://tiagomassoni.github.io/ihc-texts)
+- [Logic for Computer Science (Portuguese)](https://tiagomassoni.github.io/logic-texts/)
 - [Scientific Writing (Portuguese)](https://sites.google.com/computacao.ufcg.edu.br/ptcc-ufcg/)
 
 ## Industry Partnerships
