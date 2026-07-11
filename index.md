@@ -6,14 +6,13 @@ description: Associate Professor at UFCG
 
 # Tiago Massoni
 
-Associate Professor in Computer Science at UFCG, working on human factors in software engineering, software evolution, and interdisciplinary computing research.
+Full Professor in Computer Science at UFCG, working on human factors in software engineering, software evolution, and interdisciplinary computing research.
 
 ## Contact
 
 - Email: [massoni@computacao.ufcg.edu.br](mailto:massoni@computacao.ufcg.edu.br)
 - X (Twitter): [@tiagomassoni](https://x.com/tiagomassoni)
 - ORCID: [0000-0002-9423-7556](https://orcid.org/0000-0002-9423-7556)
-- Head of the [Software Practices Lab](https://splab.computacao.ufcg.edu.br/)
 
 ## Quick Navigation
 
@@ -46,15 +45,16 @@ Associate Professor in Computer Science at UFCG, working on human factors in sof
 
 - Career abandonment in software development: motivators for leaving the profession and links between technical factors and intention to leave.  
   Selected outputs: [CHASE 2025 Distinguished Paper (preprint)](https://arxiv.org/abs/2503.04460), [SBES](https://dl.acm.org/doi/abs/10.1145/3474624.3474644)
+- Career entry in software engineering: Ph.D. student Danielly Gualberto investigates what motivates people with different educational backgrounds to enter the field; in special, she is investigating data from professionals who chose a late career in software engineering during the COVID-19 pandemic.
 - Diversity in software teams: women in agile estimation meetings and community smells, in collaboration with [Alexander Serebrenik](https://www.tue.nl/en/research/researchers/alexander-serebrenik), [Gemma Catolino](https://www.gemmacatolino.com/), [Damian Tamburri](https://research.tue.nl/en/persons/damian-a-tamburri), and [Fabio Palomba](https://fpalomba.github.io/).  
   Selected outputs: [SBES](https://sol.sbc.org.br/index.php/sbes/article/view/30394), [SANER](https://ieeexplore.ieee.org/abstract/document/9825896)
 - Hybrid software and ML teams: Ph.D. student Sheila Paiva and M.Sc.student Regina Leticia investigate collaboration dynamics in mixed software/data science teams, with Prof. Franklin Ramalho.
-- Pair programming and diversity: Ph.D. student Rayana Rocha (with Prof. Camila Sarmento) studies how diversity gaps affect pair programming.
 - Community smells and agile retrospectives: Ph.D. student Carlos Fran investigates how retrospective meetings can mitigate social issues in teams.  
   Selected output: [CHASE 2025](https://arxiv.org/abs/2502.18662)
 - Leadership styles in agile teams: Ph.D. student Narallynne Maciel (with Prof. [Lucas Gren](https://www.cse.chalmers.se/~lucasg/)) investigates leadership behavior and team outcomes.  
   Selected outputs: SBES [2023](https://dl.acm.org/doi/abs/10.1145/3555228.3555263), [2024](https://sol.sbc.org.br/index.php/sbes/article/view/30355)
-- Career entry in software engineering: Ph.D. student Danielly Gualberto investigates what motivates people with different educational backgrounds to enter the field.
+- Pair programming in AI-aided Software Engineering: helping Diego Lisboa and Prof. Cleidson de Souza in studies investigating the interaction between developer pairs and AI in development tasks.   
+  Selected outputs: We have recently had a paper accepted for SBES [2026]() (preprint soon)
 
 
 ### Software Evolution and Refactoring
@@ -90,6 +90,9 @@ Associate Professor in Computer Science at UFCG, working on human factors in sof
 - [Scientific Writing (Portuguese)](https://sites.google.com/computacao.ufcg.edu.br/ptcc-ufcg/)
 
 ## Industry Partnerships
+
+<img src="/assets/img/partners/avaliai.svg" alt="avaliAI logo" width="84">  
+**avaliAI**: Startup using multi-agent software architectures to innovate in social impact research.
 
 <img src="/assets/img/partners/vtex.svg" alt="VTEX logo" width="84">  
 **VTEX**: Observability of e-commerce sites and apps; training and hiring of ~60 undergraduate and graduate students.
