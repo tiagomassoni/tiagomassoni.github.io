@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tiago Massoni
-description: Associate Professor at UFCG
+description: Full Professor at UFCG
 ---
 
 # Tiago Massoni
