@@ -32,7 +32,7 @@ Full Professor in Computer Science at UFCG, working on human factors in software
 
 ## Positions
 
-- (Current) Associate Dean - Centre for Electrical Engineering and Informatics ([CEEI](https://www.ceei.ufcg.edu.br/))
+- (Current) Deputy Dean - Centre for Electrical Engineering and Informatics ([CEEI](https://www.ceei.ufcg.edu.br/))
 - (Current) Technical Director, Telmo Araujo Innovation Center ([CITTA](https://citta.org.br/)), Campina Grande-PB
 - (2019-2023) Head of Department, Department of Computing and Systems, UFCG
 - (2019-2020) President, Brazilian Computer Society's Formal Methods Committee
@@ -43,16 +43,16 @@ Full Professor in Computer Science at UFCG, working on human factors in software
 
 ### Human Factors in Software Development
 
-- Career abandonment in software development: motivators for leaving the profession and links between technical factors and intention to leave.  
-  Selected outputs: [CHASE 2025 Distinguished Paper (preprint)](https://arxiv.org/abs/2503.04460), [SBES](https://dl.acm.org/doi/abs/10.1145/3474624.3474644)
 - Career entry in software engineering: Ph.D. student Danielly Gualberto investigates what motivates people with different educational backgrounds to enter the field; in special, she is investigating data from professionals who chose a late career in software engineering during the COVID-19 pandemic.
-- Diversity in software teams: women in agile estimation meetings and community smells, in collaboration with [Alexander Serebrenik](https://www.tue.nl/en/research/researchers/alexander-serebrenik), [Gemma Catolino](https://www.gemmacatolino.com/), [Damian Tamburri](https://research.tue.nl/en/persons/damian-a-tamburri), and [Fabio Palomba](https://fpalomba.github.io/).  
-  Selected outputs: [SBES](https://sol.sbc.org.br/index.php/sbes/article/view/30394), [SANER](https://ieeexplore.ieee.org/abstract/document/9825896)
-- Hybrid software and ML teams: Ph.D. student Sheila Paiva and M.Sc.student Regina Leticia investigate collaboration dynamics in mixed software/data science teams, with Prof. Franklin Ramalho.
 - Community smells and agile retrospectives: Ph.D. student Carlos Fran investigates how retrospective meetings can mitigate social issues in teams.  
   Selected output: [CHASE 2025](https://arxiv.org/abs/2502.18662)
-- Leadership styles in agile teams: Ph.D. student Narallynne Maciel (with Prof. [Lucas Gren](https://www.cse.chalmers.se/~lucasg/)) investigates leadership behavior and team outcomes.  
+- AI-driven Software Development and Cognitive Debt: Ph.D. student Sheila Paiva and M.Sc.students Geovan and Iago investigate collaboration dynamics in mixed software/data science teams, with Prof. Franklin Ramalho.
   Selected outputs: SBES [2023](https://dl.acm.org/doi/abs/10.1145/3555228.3555263), [2024](https://sol.sbc.org.br/index.php/sbes/article/view/30355)
+- Leadership styles in agile teams: Ph.D. student Narallynne Maciel (with Prof. [Lucas Gren](https://www.cse.chalmers.se/~lucasg/)) investigates leadership behavior and team outcomes.  
+- Diversity in software teams: women in agile estimation meetings and community smells, in collaboration with [Alexander Serebrenik](https://www.tue.nl/en/research/researchers/alexander-serebrenik), [Gemma Catolino](https://www.gemmacatolino.com/), [Damian Tamburri](https://research.tue.nl/en/persons/damian-a-tamburri), and [Fabio Palomba](https://fpalomba.github.io/).  
+  Selected outputs: [SBES](https://sol.sbc.org.br/index.php/sbes/article/view/30394), [SANER](https://ieeexplore.ieee.org/abstract/document/9825896)
+- Career abandonment in software development: motivators for leaving the profession and links between technical factors and intention to leave.  
+  Selected outputs: [CHASE 2025 Distinguished Paper (preprint)](https://arxiv.org/abs/2503.04460), [SBES](https://dl.acm.org/doi/abs/10.1145/3474624.3474644)
 - Pair programming in AI-aided Software Engineering: helping Diego Lisboa and Prof. Cleidson de Souza in studies investigating the interaction between developer pairs and AI in development tasks.   
   Selected outputs: We have recently had a paper accepted for SBES [2026]() (preprint soon)
 
@@ -128,5 +128,6 @@ Full Professor in Computer Science at UFCG, working on human factors in software
 
 - [Research hints and tips](https://tiagomassoni.github.io/research/index.html)
 - [Technology podcast transcriptions](https://tiagomassoni.github.io/CBN/principal.html)
+- [Studies in AI-driven software development](https://tiagomassoni.github.io/ai-studies)
 
-Last updated: 2026-03-07
+Last updated: 2026-11-13
